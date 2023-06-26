@@ -8,7 +8,6 @@
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
-- [Boo](#boo)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -73,10 +72,6 @@
 - [Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN) - Python最佳实践指南。 The chinese translation of "Hitchhiker's Guide to Python".
 - [npocmaka/batch.scripts](https://github.com/npocmaka/batch.scripts) - batch script utils and examples by npocmaka -
 - [realpython/python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-
-## Boo 
-
-- [felixlu/pyBooguNote](https://github.com/felixlu/pyBooguNote) - A simple, incomplete & unofficial implement of BooguNote written in Python 3.
 
 ## C 
 
@@ -507,6 +502,7 @@
 
 ## JavaScript 
 
+- [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
 - [imyuanx/chatgpt-proxy](https://github.com/imyuanx/chatgpt-proxy) - One-click deployment of the ChatGPT private proxy, power by Next.js
@@ -700,6 +696,7 @@
 
 ## Lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [zeromq/lzmq](https://github.com/zeromq/lzmq) - Lua binding to ZeroMQ
 - [starwing/lua-protobuf](https://github.com/starwing/lua-protobuf) - A Lua module to work with Google protobuf
@@ -755,8 +752,6 @@
 
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [tv-player/TvBox](https://github.com/tv-player/TvBox) - TvBox 配置、maoTv配置
 - [hao-lh/the-road-to-computer-vision](https://github.com/hao-lh/the-road-to-computer-vision) - A list of time-lasting classic books, which could not only help you figure out how it works, but also grasp when it works and why it works in that way.
 - [howie6879/mac-soft](https://github.com/howie6879/mac-soft) - 记录我在使用 macOS 过程中使用&看到的软件项目
 - [jiangfengming/openconnect-chnroutes-setup](https://github.com/jiangfengming/openconnect-chnroutes-setup) - Openconnect + chnroutes + ChinaDNS + Dnsmasq 实现家庭所有设备区分国内外IP翻墙
@@ -946,10 +941,13 @@
 
 ## Python 
 
+- [jazzband/django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
+- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [wondertrader/wtpy](https://github.com/wondertrader/wtpy) - wtpy是基于wondertrader为底层的针对python的子框架
 - [BigBrotherTrade/trader](https://github.com/BigBrotherTrade/trader) - 交易模块
@@ -1385,8 +1383,6 @@
 - [stephenmcd/mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework for Django
 - [cobrateam/splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 - [hayzer/robotframework2testlink](https://github.com/hayzer/robotframework2testlink) - Reporting Robotframework results to Testlink test manager
-- [felixlu/pyMorningDiary](https://github.com/felixlu/pyMorningDiary) - A tool for writing Morning Diary. Programmed with Python, Tkinter and SQLite3.
-- [felixlu/PomodoroTk](https://github.com/felixlu/PomodoroTk) - A simple Pomodoro Timer written with Python 3 and Tkinter.
 - [limodou/uliweb](https://github.com/limodou/uliweb) - Simple and easy use python web framework
 
 ## RobotFramework 
@@ -1415,7 +1411,6 @@
 
 ## Rust 
 
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1534,6 +1529,7 @@
 
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
