@@ -112,6 +112,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -178,6 +179,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -1037,6 +1039,7 @@
 
 ## hacktoberfest 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -1397,6 +1400,7 @@
 
 ## lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [zeromq/lzmq](https://github.com/zeromq/lzmq) - Lua binding to ZeroMQ
 - [starwing/lua-protobuf](https://github.com/starwing/lua-protobuf) - A Lua module to work with Google protobuf
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
@@ -1522,6 +1526,10 @@
 - [arkdb/inception](https://github.com/arkdb/inception) - 一个集审核、执行、备份及生成回滚语句于一身的MySQL自动化运维工具
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 
+## neovim 
+
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+
 ## neural-network 
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -1609,6 +1617,9 @@
 
 ## others 
 
+- [jazzband/django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
+- [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
@@ -1619,7 +1630,6 @@
 - [AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [tv-player/TvBox](https://github.com/tv-player/TvBox) - TvBox 配置、maoTv配置
 - [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - a dynamic tiling window manager for Windows 10/11
 - [jzfai/vue3-admin-plus](https://github.com/jzfai/vue3-admin-plus) - 👏 An amazing admin framework of vue3
 - [PyCQA/modernize](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3)
@@ -2317,9 +2327,6 @@
 - [orf/simple](https://github.com/orf/simple) - Simple is a clone of Obtvse written in Python running on Flask.
 - [hayzer/robotframework2testlink](https://github.com/hayzer/robotframework2testlink) - Reporting Robotframework results to Testlink test manager
 - [cyfdecyf/cow](https://github.com/cyfdecyf/cow) - HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
-- [felixlu/pyBooguNote](https://github.com/felixlu/pyBooguNote) - A simple, incomplete & unofficial implement of BooguNote written in Python 3.
-- [felixlu/pyMorningDiary](https://github.com/felixlu/pyMorningDiary) - A tool for writing Morning Diary. Programmed with Python, Tkinter and SQLite3.
-- [felixlu/PomodoroTk](https://github.com/felixlu/PomodoroTk) - A simple Pomodoro Timer written with Python 3 and Tkinter.
 - [ketan/SWTBot](https://github.com/ketan/SWTBot) - UI Testing for SWT and Eclipse
 - [limodou/uliweb](https://github.com/limodou/uliweb) - Simple and easy use python web framework
 
@@ -2997,6 +3004,10 @@
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 甲骨文服务器保活脚本(Oracle Server Keep Alive Script)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+
+## vim 
+
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
 ## visual-studio-code 
 
