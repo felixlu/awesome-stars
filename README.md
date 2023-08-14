@@ -133,6 +133,7 @@
 ## C++ 
 
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+- [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架
 - [byrnexu/betterquant](https://github.com/byrnexu/betterquant) - 📈 Better Quant
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
@@ -231,6 +232,7 @@
 
 ## Go 
 
+- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool
@@ -238,7 +240,7 @@
 - [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a singl
 - [HirbodBehnam/Warp-Bot](https://github.com/HirbodBehnam/Warp-Bot) - A telegram bot that helps you get free warp wireguard profiles
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Juicity. 🚀🚀
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
@@ -259,7 +261,7 @@
 - [didi/sharingan](https://github.com/didi/sharingan) - Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
@@ -418,7 +420,7 @@
 
 ## Java 
 
-- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个简单易用、以应用为中心的云原生DevOps系统，具有持续集成、持续部署、微服务治理等功能，主要特点：部署简单、操作简洁、功能快速。
+- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级的云应用管理平台，界面简洁、操作简单，不需要懂容器、k8s的概念，具有多环境管理、应用部署、服务治理、多云管理等功能。
 - [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [dromara/northstar](https://github.com/dromara/northstar) - 基于B/S架构的一站式量化交易平台，能进行历史回放、策略研发、模拟交易、实盘交易。 已对接国内期货CTP交易系统，并陆续补充国内股票XTP渠道、老虎证券、币安等多种渠道。本仓库仅作镜像用，相关文档请访问主仓库：https://gitee.com/dromara/northstar
@@ -784,6 +786,7 @@
 
 ## Others 
 
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, 
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
@@ -1200,7 +1203,7 @@
 - [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python
 - [rpkilby/django-rest-framework-guardian](https://github.com/rpkilby/django-rest-framework-guardian) - django-guardian support for Django REST Framework
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [h2non/jsonpath-ng](https://github.com/h2non/jsonpath-ng) - Finally, a JSONPath implementation for Python that aims to be standard compliant. That's all. Enjoy it.
 - [kennknowles/python-jsonpath-rw](https://github.com/kennknowles/python-jsonpath-rw) - A robust and significantly extended implementation of JSONPath for Python, with a clear AST for metaprogramming.
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
@@ -1285,7 +1288,7 @@
 - [dpursehouse/pygerrit2](https://github.com/dpursehouse/pygerrit2) - Python library to interface with Gerrit's REST API
 - [xiaowan/pyclient](https://github.com/xiaowan/pyclient) - 脚本类快速开发脚手架，集成了mysql/redis/rabbitmq/mongodb/elasticsearch，可快速进行业务开发
 - [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [FeeiCN/GSIL](https://github.com/FeeiCN/GSIL) - GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
@@ -1471,7 +1474,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [David-OConnor/pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
@@ -1521,7 +1524,7 @@
 - [shufflewzc/VIP](https://github.com/shufflewzc/VIP) - 🏃‍💨 Gone
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
-- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以V2Ray（v4版）或Xray、Nginx或Caddy（V2版）、TUIC或Hysteria等打造常用科学上网的优化配置及最优组合示例，且提供集成必要插件的Caddy（v2版）程序，分享给大家食用及自己备份。
+- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（V2 版）、TUIC 或 Hysteria 等打造常用科学上网的优化配置及最优组合示例，且提供集成必要插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
 - [kirin10000/Xray-script](https://github.com/kirin10000/Xray-script) - Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
@@ -1585,12 +1588,12 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) - A ChatGPT that supports plugins.             TG: https://t.me/+bIZncGryj_85MjYx
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
@@ -1613,7 +1616,7 @@
 - [shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) - 🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [cloudtogo/pageplug](https://github.com/cloudtogo/pageplug) - PagePlug是Appsmith 的中国化项目，基于Appsmith做了整体性能优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的、可视化的、符合开发者直觉的前端低代码框架
-- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载高品质音乐的命令行工具
+- [zonemeen/musicn](https://github.com/zonemeen/musicn) - 🎵 一个可播放及下载音乐的 Node.js 命令行工具
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [theY4Kman/dcrf-client](https://github.com/theY4Kman/dcrf-client) - Javascript client for Django Channels REST Framework
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
