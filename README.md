@@ -82,6 +82,7 @@
 ## C 
 
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+- [openctp/openctp](https://github.com/openctp/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
 - [hhyo/inception](https://github.com/hhyo/inception) - 此分支停止维护，请切换至goInception
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -420,7 +421,7 @@
 
 ## Java 
 
-- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级的云应用管理平台，界面简洁、操作简单，不需要懂容器、k8s的概念，具有多环境管理、应用部署、服务治理、多云管理等功能。
+- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级的云应用管理平台，界面简洁、操作简单，不需要理解容器、k8s的概念，具有多环境管理、应用部署、服务治理、多云管理等功能。
 - [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [dromara/northstar](https://github.com/dromara/northstar) - 基于B/S架构的一站式量化交易平台，能进行历史回放、策略研发、模拟交易、实盘交易。 已对接国内期货CTP交易系统，并陆续补充国内股票XTP渠道、老虎证券、币安等多种渠道。本仓库仅作镜像用，相关文档请访问主仓库：https://gitee.com/dromara/northstar
@@ -497,7 +498,7 @@
 - [yinqiwen/snova-c4](https://github.com/yinqiwen/snova-c4) - Java/Node.JS implementation for Snova C4 Server.
 - [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
 - [ShinChven/GradleWebApp](https://github.com/ShinChven/GradleWebApp) - 使用Gradle 构建Struts2、Springframework和hibernate 框架的Java EE 项目模板
-- [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
+- [apache/dubbo](https://github.com/apache/dubbo) - The java implementation of Apache Dubbo. An RPC and microservice framework.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [aptana/studio3](https://github.com/aptana/studio3) - This repository contains the code for core components of Aptana Studio 3.
 - [groovy/groovy-eclipse](https://github.com/groovy/groovy-eclipse) - Eclipse Groovy Development Tools
@@ -578,7 +579,7 @@
 - [guardiora/QuantumultX](https://github.com/guardiora/QuantumultX) - 一个整理各种大佬的圈X脚本~
 - [GoodHolidays/QuantumultX](https://github.com/GoodHolidays/QuantumultX) - 
 - [zack24q/vue-navigation](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生APP导航一样。
-- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+- [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [alibaba/online-test-platform](https://github.com/alibaba/online-test-platform) - online test platform
 - [lony2003/heroku-node-proxy](https://github.com/lony2003/heroku-node-proxy) - 一键在Heroku上部署node-unblocker Web代理，简单易用且免费（去轮轮链接版）
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
@@ -988,6 +989,8 @@
 
 ## Python 
 
+- [basnijholt/rsync-time-machine.py](https://github.com/basnijholt/rsync-time-machine.py) - Ultralight Time Machine-style backups using rsync
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [hhyo/Archery](https://github.com/hhyo/Archery) - SQL 审核查询平台
 - [test-instructor/yangfan](https://github.com/test-instructor/yangfan) - 扬帆测试平台是一款高效、可靠的自动化测试平台，旨在帮助团队提升测试效率、降低测试成本。该平台包括用例管理、定时任务、执行记录等功能模块，支持多种类型的测试用例，目前支持API(http和grpc协议)、性能，并且可定制化，灵活满足不同场景的需求。其中，用例管理模块支持上传、编辑、复制、删除等基础操作，同时支持批量执行、并发执行等高级功能。通过用例设置，可以设置用例的基本信息、运行配置、环境变量等，
@@ -1013,7 +1016,7 @@
 - [BigBrotherTrade/trader](https://github.com/BigBrotherTrade/trader) - 交易模块
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
 - [PyCQA/modernize](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
@@ -1047,7 +1050,6 @@
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
 - [groveco/django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
-- [openctp/openctp](https://github.com/openctp/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 - [lipengyuer/DataScience](https://github.com/lipengyuer/DataScience) - 
 - [yutiansut/DataScience](https://github.com/yutiansut/DataScience) - 
 - [NilCoalescing/djangochannelsrestframework](https://github.com/NilCoalescing/djangochannelsrestframework) - A Rest-framework for websockets using Django channels-v4
@@ -1504,6 +1506,8 @@
 
 ## Shell 
 
+- [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
+- [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 - [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy
@@ -1560,7 +1564,7 @@
 - [woolabs/Woobuntu](https://github.com/woolabs/Woobuntu) - 
 - [darrelclute/pelican-openshift](https://github.com/darrelclute/pelican-openshift) - Using Pelican to deploy your content to OpenShift
 - [cloudfoundry-attic/bosh-lite](https://github.com/cloudfoundry-attic/bosh-lite) - A lite development env for BOSH
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [transcode-open/apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
 - [rampageX/TOW](https://github.com/rampageX/TOW) - Transparent Over the Wall
