@@ -137,7 +137,6 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
-- [project-management](#project-management)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -272,7 +271,6 @@
 - [Zaelot-Inc/ui-libraries](https://github.com/Zaelot-Inc/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [danielsogl/awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Agile project management platform. Built on top of Django and AngularJS
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## ansible 
@@ -283,7 +281,7 @@
 
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a singl
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [Runner-Go-Team/RunnerGo](https://github.com/Runner-Go-Team/RunnerGo) - RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -330,6 +328,7 @@
 
 ## automation 
 
+- [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [AirtestProject/Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -462,7 +461,7 @@
 - [akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT) - **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphic
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a singl
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -484,7 +483,7 @@
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [fscarmen2/Argo-X-Container-PaaS](https://github.com/fscarmen2/Argo-X-Container-PaaS) - 为容器平台而生---平台部署方式为镜像或者 Dockerfile 方式的专用
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
 
@@ -625,7 +624,7 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
 - [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
 
@@ -675,7 +674,7 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -688,7 +687,7 @@
 
 ## deployment 
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## design 
 
@@ -782,7 +781,8 @@
 
 ## docker 
 
-- [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+- [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1103,7 +1103,8 @@
 
 ## graphql 
 
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [yezyilomo/django-restql](https://github.com/yezyilomo/django-restql) - Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
 - [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -1181,7 +1182,6 @@
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [kiegroup/drools](https://github.com/kiegroup/drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [taigaio/taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
 - [TiddlyWiki/TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop) - A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -1283,7 +1283,7 @@
 - [jenkinsci/code-coverage-api-plugin](https://github.com/jenkinsci/code-coverage-api-plugin) - Jenkins Code Coverage Plugin
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [vipshop/Saturn](https://github.com/vipshop/Saturn) - The vip.com's distributed job scheduling platform.
 - [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -1305,6 +1305,7 @@
 
 ## javascript 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
 - [mvpyb/vite-element-admin](https://github.com/mvpyb/vite-element-admin) - Vite Element Admin 是一个免费开源的中后台模版。使用了最新的vue3,vite2等主流技术开发，开箱即用的中后台前端解决方案，也可用于学习参考
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
@@ -1462,7 +1463,7 @@
 
 ## library 
 
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [baidu/CUP](https://github.com/baidu/CUP) - CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library.
@@ -1514,7 +1515,7 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
@@ -1633,6 +1634,7 @@
 
 ## nextjs 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
@@ -1741,7 +1743,7 @@
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
-- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour
+- [vanjs-org/van](https://github.com/vanjs-org/van) - 🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [jazzband/django-constance](https://github.com/jazzband/django-constance) - Dynamic Django settings.
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
@@ -1757,7 +1759,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - a dynamic tiling window manager for Windows 10/11
 - [PyCQA/modernize](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models.
 - [matthiask/django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
 - [django-mptt/django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -2444,7 +2446,6 @@
 - [usablica/front-end-frameworks](https://github.com/usablica/front-end-frameworks) - A collection of best front-end frameworks for faster and easier web development.
 - [manuelkiessling/nodebeginner.org](https://github.com/manuelkiessling/nodebeginner.org) - A comprehensive Node.js tutorial for beginners
 - [twinsant/mdblog](https://github.com/twinsant/mdblog) - Markdown Blog.
-- [bhuztez/gitto](https://github.com/bhuztez/gitto) - poor man's git hosting
 - [isnowfy/snownlp](https://github.com/isnowfy/snownlp) - Python library for processing Chinese text
 - [square/shuttle](https://github.com/square/shuttle) - String extraction, translation and export tools for the 21st century. "Moving strings around so you don't have to"
 - [code4craft/blackhole](https://github.com/code4craft/blackhole) - A simple unrecursive DNS server. It can easily be configured to intercept some kind of request to one address.
@@ -2518,10 +2519,6 @@
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
-## project-management 
-
-- [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Agile project management platform. Built on top of Django and AngularJS
-
 ## publishing 
 
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -2536,6 +2533,9 @@
 
 ## python 
 
+- [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
+- [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -2551,7 +2551,7 @@
 - [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [gluk-w/django-grpc](https://github.com/gluk-w/django-grpc) - Easy gRPC service based on Django application
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [ading2210/poe-api](https://github.com/ading2210/poe-api) - [MAINTAINERS NEEDED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [dogukanatakul/anonim-browser-python3](https://github.com/dogukanatakul/anonim-browser-python3) - Fake locations, otomatic proxy ip adress and fake user agents.
 - [lidangzzz/How-to-run](https://github.com/lidangzzz/How-to-run) - 立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记
@@ -2668,7 +2668,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [MichaelAquilina/zsh-autoswitch-virtualenv](https://github.com/MichaelAquilina/zsh-autoswitch-virtualenv) - 🐍 ZSH plugin to automatically switch python virtualenvs (including pipenv and poetry) as you move between directories
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [fkromer/awesome-robotframework](https://github.com/fkromer/awesome-robotframework) - A curated list of awesome Robot Framework resources and libraries
@@ -2767,6 +2767,8 @@
 
 ## python3 
 
+- [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
 - [starryrbs/django-comment-migrate](https://github.com/starryrbs/django-comment-migrate) - 这是一个Django model注释迁移的app
 - [dogukanatakul/anonim-browser-python3](https://github.com/dogukanatakul/anonim-browser-python3) - Fake locations, otomatic proxy ip adress and fake user agents.
@@ -2805,7 +2807,7 @@
 
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## qt 
 
@@ -2828,6 +2830,7 @@
 
 ## react 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [wuranxu/pityWeb](https://github.com/wuranxu/pityWeb) - 🎉一个持续迭代的开源接口测试平台(前端)，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
 - [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
@@ -2912,6 +2915,7 @@
 
 ## rust 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [LJason77/bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 自动下载 B站 视频
@@ -2943,7 +2947,7 @@
 
 ## security 
 
-- [chaitin/safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
@@ -3071,7 +3075,7 @@
 - [lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
 - [xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR) - [python3.6] 运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
@@ -3130,6 +3134,7 @@
 
 ## typescript 
 
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
