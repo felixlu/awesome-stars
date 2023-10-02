@@ -169,6 +169,7 @@
 
 ## CSS 
 
+- [lowcoding/lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT
 - [shuziyimin/shuziyimin.org](https://github.com/shuziyimin/shuziyimin.org) - 数字移民导航站源码
 - [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide) - python/golang -web入坑指南
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
@@ -365,6 +366,7 @@
 
 ## HTML 
 
+- [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -468,6 +470,7 @@
 - [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 - [youzan/bugCatcher](https://github.com/youzan/bugCatcher) - 方便产品、开发、测试三方协同管理、测试、监控项目进度和质量，以持续交付。
 - [jenkinsci/code-coverage-api-plugin](https://github.com/jenkinsci/code-coverage-api-plugin) - Jenkins Code Coverage Plugin
+- [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [alipay/SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
@@ -608,7 +611,6 @@
 - [zyanycall/stressTestPlatform](https://github.com/zyanycall/stressTestPlatform) - 基于Jmeter实现的在线压测和管理Jmx的平台。
 - [touch-callable/touch-callable](https://github.com/touch-callable/touch-callable) - Automatically generate a Web UI for Python function using type annotations.
 - [teadocs/teadocs](https://github.com/teadocs/teadocs) - Teadocs is a quick and easy WEB document setup tool
-- [doocs/advanced-java](https://github.com/doocs/advanced-java) - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
 - [xuliangzhan/vue-element-extends](https://github.com/xuliangzhan/vue-element-extends) - 🌴 基于 ElementUI 2.x 的扩展组件（已废弃 Have been abandoned）
 - [seakeys/vue-kityminder-editor](https://github.com/seakeys/vue-kityminder-editor) - vue版的百度脑图-支持脑图编辑功能
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
@@ -1033,7 +1035,7 @@
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
-- [matthiask/django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
+- [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
 - [django-mptt/django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [gluk-w/django-grpc](https://github.com/gluk-w/django-grpc) - Easy gRPC service based on Django application
@@ -1361,7 +1363,7 @@
 - [AbelJoo/ChanDao-ZenTao-PMS-Auxiliary](https://github.com/AbelJoo/ChanDao-ZenTao-PMS-Auxiliary) - 如果您使用的是禅道项目管理系统（ZenTaoPMS, http://www.zentao.net ），该工具可能提高您的工作效率。
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [robotframework/SeleniumLibrary](https://github.com/robotframework/SeleniumLibrary) - Web testing library for Robot Framework
-- [gaojiuli/gain](https://github.com/gaojiuli/gain) - Web crawling framework  based on asyncio.
+- [elliotgao2/gain](https://github.com/elliotgao2/gain) - Web crawling framework  based on asyncio.
 - [svanoort/pyresttest](https://github.com/svanoort/pyresttest) - Python Rest Testing
 - [ncbi/robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects) - Implementation of the Page Object pattern with Robot Framework and selenium. Also facilitates page object pattern independent of Robot Framework
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
@@ -1516,6 +1518,8 @@
 
 ## Shell 
 
+- [wjz304/arpl-zh_CN](https://github.com/wjz304/arpl-zh_CN) - Automated Redpill Loader(zh_CN)
+- [wjz304/arpl-i18n](https://github.com/wjz304/arpl-i18n) - Automated Redpill Loader(i18n)
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
 - [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
