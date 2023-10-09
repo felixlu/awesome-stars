@@ -285,7 +285,7 @@
 
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, u
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [Runner-Go-Team/RunnerGo](https://github.com/Runner-Go-Team/RunnerGo) - RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -384,6 +384,7 @@
 
 ## awesome-list 
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -472,7 +473,7 @@
 - [akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT) - **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphic
 - [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, u
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -709,7 +710,7 @@
 ## devops 
 
 - [koderover/zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
-- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级的云应用管理平台，界面简洁、操作简单，不需要理解容器、k8s的概念，具有多环境管理、应用部署、服务治理、多云管理等功能。
+- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个简单易用的轻量级的云应用管理平台，不需要理解容器和k8s的概念，具有多云和多环境管理、应用管理和部署、服务治理等功能。
 - [DevopsChina/lab](https://github.com/DevopsChina/lab) - We hope all friends who are holding a fresh secret technique in the DevOps toolchain sign up for the online sharing in the community. 希望所有在 DevOps 工具链方面怀揣着一招鲜秘技的朋友们都报名社区的线上分享
 - [devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
 - [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) - 蓝鲸持续集成平台(蓝盾)
@@ -796,7 +797,7 @@
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. https://sealos.io
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [fscarmen2/Argo-X-Container-PaaS](https://github.com/fscarmen2/Argo-X-Container-PaaS) - 为容器平台而生---平台部署方式为镜像或者 Dockerfile 方式的专用
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
@@ -1070,7 +1071,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. https://sealos.io
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
@@ -1133,7 +1134,8 @@
 
 ## hacktoberfest 
 
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
+- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 - [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool
@@ -1141,7 +1143,9 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -1194,7 +1198,6 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
@@ -1206,6 +1209,7 @@
 - [TiddlyWiki/TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop) - A custom desktop browser for TiddlyWiki 5 and TiddlyWiki Classic, based on nw.js
 - [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+- [cobrateam/splinter](https://github.com/cobrateam/splinter) - splinter - python test framework for web applications
 
 ## haskell 
 
@@ -1443,8 +1447,8 @@
 
 ## kubernetes 
 
-- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级的云应用管理平台，界面简洁、操作简单，不需要理解容器、k8s的概念，具有多环境管理、应用部署、服务治理、多云管理等功能。
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
+- [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个简单易用的轻量级的云应用管理平台，不需要理解容器和k8s的概念，具有多云和多环境管理、应用管理和部署、服务治理等功能。
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds. https://sealos.io
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
@@ -1768,7 +1772,7 @@
 - [test-instructor/yangfan](https://github.com/test-instructor/yangfan) - 扬帆测试平台是一款高效、可靠的自动化测试平台，旨在帮助团队提升测试效率、降低测试成本。该平台包括用例管理、定时任务、执行记录等功能模块，支持多种类型的测试用例，目前支持API(http和grpc协议)、性能，并且可定制化，灵活满足不同场景的需求。其中，用例管理模块支持上传、编辑、复制、删除等基础操作，同时支持批量执行、并发执行等高级功能。通过用例设置，可以设置用例的基本信息、运行配置、环境变量等，
 - [slan-ning/coolshell-markdown](https://github.com/slan-ning/coolshell-markdown) - coolshell.cn markdown version archive
 - [zwq2018/Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
-- [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) - A ChatGPT that supports plugins.             TG: https://t.me/+bIZncGryj_85MjYx
+- [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) - 
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
@@ -1795,7 +1799,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - a dynamic tiling window manager for Windows 10/11
 - [PyCQA/modernize](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (GGUF), Llama models.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, llama.cpp (GGUF), Llama models.
 - [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries) - Adjacency-list trees for Django using recursive common table expressions. Supports PostgreSQL, sqlite, MySQL and MariaDB.
 - [django-mptt/django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -1957,9 +1961,9 @@
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [TaceyWong/DbSchema-Keygen](https://github.com/TaceyWong/DbSchema-Keygen) - DbSchema序列号生成器
 - [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust
-- [opendx/agent](https://github.com/opendx/agent) - 
-- [opendx/server](https://github.com/opendx/server) - 
-- [opendx/frontend](https://github.com/opendx/frontend) - 
+- [opendx/agent](https://github.com/opendx/agent) - See Next -&gt; https://github.com/yqhp
+- [opendx/server](https://github.com/opendx/server) - See Next -&gt; https://github.com/yqhp
+- [opendx/frontend](https://github.com/opendx/frontend) - See Next -&gt; https://github.com/yqhp
 - [jmxtrans/jmxtrans](https://github.com/jmxtrans/jmxtrans) - jmxtrans
 - [grauwoelfchen/flask-dotenv](https://github.com/grauwoelfchen/flask-dotenv) - The .env file support for Flask Config
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
@@ -2012,7 +2016,7 @@
 - [hziee514/gollum](https://github.com/hziee514/gollum) - DDD入门学习与实践，动手编码有助于更好的理解与应用DDD
 - [jazzband/django-redis](https://github.com/jazzband/django-redis) - Full featured redis cache backend for Django.
 - [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
-- [testdevhome/Autotestplat](https://github.com/testdevhome/Autotestplat) - 一站式自动化测试平台及解决方案
+- [testdevhome/Autotestplat-V1.0](https://github.com/testdevhome/Autotestplat-V1.0) - 一站式自动化测试平台及解决方案
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [manicmaniac/arc4](https://github.com/manicmaniac/arc4) - A small and insanely fast ARCFOUR (RC4) cipher implementation of Python
 - [liyangbit/Python-Knowledge-Handbook](https://github.com/liyangbit/Python-Knowledge-Handbook) - Python Knowledge Handbook by Python数据之道， website： http://liyangbit.com/
@@ -2566,7 +2570,7 @@
 ## python 
 
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [bloomberg/pytest-memray](https://github.com/bloomberg/pytest-memray) - pytest plugin for easy integration of memray memory profiler
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
@@ -2803,7 +2807,7 @@
 ## python3 
 
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
@@ -3029,7 +3033,7 @@
 ## shell 
 
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray多合一一键脚本
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hy2 八合一一键脚本
 - [OreosLab/VIP](https://github.com/OreosLab/VIP) - 🏃‍💨 Gone
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
