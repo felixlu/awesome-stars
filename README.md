@@ -242,6 +242,7 @@
 
 ## Go 
 
+- [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
@@ -374,6 +375,7 @@
 
 ## HTML 
 
+- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
 - [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
@@ -546,6 +548,14 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX) - 
+- [w37fhy/QuantumultX](https://github.com/w37fhy/QuantumultX) - 同步和更新大佬脚本库，更新懒人配置
+- [Orz-3/QuantumultX](https://github.com/Orz-3/QuantumultX) - 
+- [sve1r/Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X) - 适用于 Quantumult X 规则整理集合. 所有内容源自 互联网,仅作为收集和整理
+- [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [frappe/gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [jzfai/vue3-admin-template](https://github.com/jzfai/vue3-admin-template) - 🎉 A new generation vue3 admin template, It's easy and fast!
@@ -710,7 +720,6 @@
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [kandanapp/kandan](https://github.com/kandanapp/kandan) - Kandan is an Open Source Alternative to HipChat
 - [manyunkai/dannysite.com](https://github.com/manyunkai/dannysite.com) - Source code to dannysite.com
-- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [binux/qiandao](https://github.com/binux/qiandao) - 签到
@@ -744,7 +753,7 @@
 
 - [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，Demo数据预计这周末迁移到另外的服务器，请耐心等待
+- [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [TencentBlueKing/bk-ci](https://github.com/TencentBlueKing/bk-ci) - 蓝鲸持续集成平台(蓝盾)
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
@@ -797,6 +806,7 @@
 
 ## Objective-C 
 
+- [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS) - GUI for xray-core on macOS
 - [AppPolice/AppPolice](https://github.com/AppPolice/AppPolice) - MacOS app for quickly limiting CPU usage by running applications
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
@@ -805,12 +815,13 @@
 
 ## Others 
 
-- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
+- [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
+- [kjfx/QuantumultX](https://github.com/kjfx/QuantumultX) - Quantumult X 新手入门教程
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, 
+- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -1272,7 +1283,7 @@
 - [jazzband/django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [freeipa/freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
-- [static-frame/static-frame](https://github.com/static-frame/static-frame) - Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface.
+- [static-frame/static-frame](https://github.com/static-frame/static-frame) - Immutable and statically-typeable DataFrames with runtime type and data validation
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
@@ -1426,6 +1437,7 @@
 - [qiwsir/StarterLearningPython](https://github.com/qiwsir/StarterLearningPython) - Learning Python: from Beginner to Master. https://lqlab.readthedocs.io
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [wwq0327/django-web-app-book](https://github.com/wwq0327/django-web-app-book) - Django Web 开发实战
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [whiteclover/white](https://github.com/whiteclover/white) - A Blog Cms Website backed by MySQL in Flask&Python
 - [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
 - [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text
@@ -1496,6 +1508,7 @@
 
 ## Rust 
 
+- [gngpp/ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
@@ -1622,7 +1635,7 @@
 - [daeuniverse/daed](https://github.com/daeuniverse/daed) - daed, a modern dashboard for dae.
 - [n9e/fe](https://github.com/n9e/fe) - Nightingale frontend
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty. 🌟 Star to support our work!
+- [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
 - [jarvis2f/ais-ninja](https://github.com/jarvis2f/ais-ninja) - 
