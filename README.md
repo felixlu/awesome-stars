@@ -155,6 +155,7 @@
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
 - [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion) - Pyjion - A JIT for Python based upon CoreCLR
 - [ztsec/xtp_api_python](https://github.com/ztsec/xtp_api_python) - 
+- [fasiondog/hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -783,7 +784,6 @@
 
 - [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
-- [fasiondog/hikyuu](https://github.com/fasiondog/hikyuu) - Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
@@ -1081,11 +1081,12 @@
 
 ## Python 
 
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
-- [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - 基于HttpRunner + Django + Vue + Element UI 的接口自动化测试平台，生产可用。你的 ⭐️ Star ⭐️ 是作者的动力源泉。
+- [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - 一个基于 HttpRunner + Django + Vue + Element UI 的接口自动化测试平台，生产可用。
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
