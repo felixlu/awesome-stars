@@ -87,6 +87,7 @@
 
 ## C 
 
+- [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - 2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [redis/hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis
@@ -256,6 +257,7 @@
 
 ## Go 
 
+- [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -405,6 +407,7 @@
 
 ## HTML 
 
+- [EasyFrontend-com/html-tailwindcss-components](https://github.com/EasyFrontend-com/html-tailwindcss-components) - Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [bulianglin/psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
 - [openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
@@ -474,7 +477,6 @@
 - [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [ankichinateam/AnkiChinaAndroid](https://github.com/ankichinateam/AnkiChinaAndroid) - 
-- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
 - [rememberber/WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 - [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 - [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能，使用该平台不需要了解容器和k8s的概念。
@@ -849,6 +851,7 @@
 
 ## MDX 
 
+- [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 硬地骇客是一群追求自由充实的生活并喜欢挑战的 Builder，热爱技术，构建产品，崇尚依靠产品驱动的增长方式构建出自己的小生意。 如果你也喜欢这些信条，欢迎加入我们硬地骇客社区。
 - [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
 
 ## Makefile 
@@ -894,6 +897,8 @@
 
 ## Others 
 
+- [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
+- [XMuli/ThinkyMatePages](https://github.com/XMuli/ThinkyMatePages) - Simple and easy to use desktop application for ChatGPT & AI, will supporting Window, MacOS, Linux platforms. | 洁且易用的 ChatGPT/星火大模型 & AI 的跨平台客户端
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) - stable-diffusion-webui 的汉化扩展
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -903,6 +908,7 @@
 - [esrrhs/atmosphere-switch](https://github.com/esrrhs/atmosphere-switch) - 大气层switch破解方案
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
 - [yjlintw/book-Coding-Developer](https://github.com/yjlintw/book-Coding-Developer) - 持续更新一些编程开发的好书，也欢迎你的分享！
@@ -1113,6 +1119,7 @@
 
 ## Python 
 
+- [TencentQQGYLab/ComfyUI-ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) - ELLA nodes for ComfyUI
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
@@ -1703,6 +1710,7 @@
 
 ## Shell 
 
+- [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边
 - [demarcush/breakfree](https://github.com/demarcush/breakfree) - Sing-Box and Clash Meta configurations for plug-n-play usage
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
@@ -1800,6 +1808,7 @@
 
 ## TypeScript 
 
+- [liruifengv/daily-poetry-image](https://github.com/liruifengv/daily-poetry-image) - 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 - [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖服务【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
