@@ -17,6 +17,7 @@
 - [CoffeeScript](#coffeescript)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
+- [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [Gherkin](#gherkin)
@@ -147,6 +148,7 @@
 
 ## C++ 
 
+- [Chilledheart/yass](https://github.com/Chilledheart/yass) - lightweight and efficient, socks5/http forward proxy. privoxy is not required. pure native, written in c++ and rust.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
@@ -243,6 +245,10 @@
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [newtmitch/docker-sonar-scanner](https://github.com/newtmitch/docker-sonar-scanner) - Quick sonar scanner docker image
 - [onplus/v2hero](https://github.com/onplus/v2hero) - All Free . Deploy V2Ray to Heroku . v2ray学习参考
+
+## Elm 
+
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Next-Gen ERD: Design, Explore, Document and Analyze your database
 
 ## Emacs Lisp 
 
@@ -863,7 +869,7 @@
 
 ## MDX 
 
-- [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 硬地骇客是一群追求自由充实的生活并喜欢挑战的 Builder，热爱技术，构建产品，崇尚依靠产品驱动的增长方式构建出自己的小生意。 如果你也喜欢这些信条，欢迎加入我们硬地骇客社区。
+- [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加
 - [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
 
 ## Makefile 
@@ -1137,6 +1143,7 @@
 
 ## Python 
 
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
@@ -1146,8 +1153,8 @@
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
 - [LanQian528/chat2api](https://github.com/LanQian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
-- [SmartFlowAI/Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial) - Llama3-XTuner-CN (Finetune By XTuner)
-- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
+- [SmartFlowAI/Llama3-Tutorial](https://github.com/SmartFlowAI/Llama3-Tutorial) - Llama3-Tutorial（XTuner、LMDeploy、OpenCompass）
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM, Llama, Baichuan, Qwen, ChatGLM)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1855,7 +1862,7 @@
 - [liruifengv/daily-poetry-image](https://github.com/liruifengv/daily-poetry-image) - 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 - [nefe/number-precision](https://github.com/nefe/number-precision) - 🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
-- [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖服务【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+- [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - All the goodies from both Mixpanel and Plausible combined into one tool.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
@@ -1872,7 +1879,7 @@
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
