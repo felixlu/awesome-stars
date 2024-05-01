@@ -347,7 +347,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。
+- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。Mock Server
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [Runner-Go-Team/RunnerGo](https://github.com/Runner-Go-Team/RunnerGo) - RunnerGo是一款国内开发者自研的性能压测工具，可以进行接口测试、场景自动化测试、性能压测等一系列功能。
@@ -616,7 +616,7 @@
 
 ## chatgpt-api 
 
-- [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+- [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [Star-Studio-Develop/Groq2API](https://github.com/Star-Studio-Develop/Groq2API) - Free Groq API With No Limit
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
@@ -649,6 +649,7 @@
 
 ## cli 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
@@ -1381,7 +1382,7 @@
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。
+- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。Mock Server
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [yezyilomo/django-restql](https://github.com/yezyilomo/django-restql) - Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
 - [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
@@ -1426,7 +1427,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [canonical/lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
-- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。
+- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。Mock Server
 - [AI-Yash/st-chat](https://github.com/AI-Yash/st-chat) - Streamlit Component, for a Chatbot UI
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -1532,11 +1533,12 @@
 
 ## http 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [lisonge/serverless-http-forward](https://github.com/lisonge/serverless-http-forward) - 阿里云 函数计算 HTTP 转发
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个持续迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
-- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。
+- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。Mock Server
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
@@ -2188,6 +2190,7 @@
 
 ## others 
 
+- [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 - [QwenLM/Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
 - [PandaBearLab/prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - chatGPT、prompt、LLM
 - [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
@@ -2226,7 +2229,6 @@
 - [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口
 - [CattleZoe/Gemini-proxy](https://github.com/CattleZoe/Gemini-proxy) - gemini-proxy-cloudflare
 - [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
-- [TencentQQGYLab/ComfyUI-ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) - ELLA nodes for ComfyUI
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 - [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！
 - [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action) - An action to automatically update your fork with new commits from the upstream repo
@@ -3766,6 +3768,7 @@
 ## stable-diffusion 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [TencentQQGYLab/ComfyUI-ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) - ELLA nodes for ComfyUI
 - [Uminosachi/sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) - Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
@@ -3839,12 +3842,13 @@
 
 ## testing 
 
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [SonicCloudOrg/sonic-agent](https://github.com/SonicCloudOrg/sonic-agent) - 🎉Agent of Sonic cloud real machine platform. Sonic云真机平台Agent端。
 - [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) - Agent that empowers software testing with LLMs; industrial-first in China
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。
+- [LinuxSuRen/api-testing](https://github.com/LinuxSuRen/api-testing) - YAML based API testing tool. 开源接口调试、测试工具。Mock Server
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [testcontainers/testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
