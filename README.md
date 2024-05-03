@@ -239,7 +239,6 @@
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [velor2012/lookbusy-docker](https://github.com/velor2012/lookbusy-docker) - 
 - [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
@@ -1122,6 +1121,7 @@
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [zavg/Asis](https://github.com/zavg/Asis) - Tool to deal efficiently with legacy code through creating and running characterization tests automatically.
 - [phppgadmin/phppgadmin](https://github.com/phppgadmin/phppgadmin) - the premier web-based administration tool for postgresql
@@ -1807,7 +1807,7 @@
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh-My-Zsh and plugins inside a Docker container with one line!
 - [namely/docker-protoc](https://github.com/namely/docker-protoc) - Docker images for generating protocol buffer definitions
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册
 - [kubernauts/jmeter-operator](https://github.com/kubernauts/jmeter-operator) - 
 - [kubernauts/jmeter-kubernetes](https://github.com/kubernauts/jmeter-kubernetes) - Load testing as a service (LTaaS) with Apache Jmeter on kubernetes
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
