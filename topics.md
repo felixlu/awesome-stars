@@ -249,7 +249,7 @@
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
-- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+- [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews
@@ -445,7 +445,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
-- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+- [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
@@ -472,7 +472,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+- [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -607,7 +607,7 @@
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+- [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy Project：一键部署 go-chatgpt-api 和 ninja 逆向工程
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
@@ -1643,6 +1643,7 @@
 
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -3790,6 +3791,7 @@
 
 ## svelte 
 
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 
@@ -3885,6 +3887,7 @@
 
 ## typescript 
 
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
