@@ -81,6 +81,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [FongMi/Release](https://github.com/FongMi/Release) - 
 - [kkkgo/office-C2R-to-VOL](https://github.com/kkkgo/office-C2R-to-VOL) - c2r office2016-2019-365_toVOL
 - [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
@@ -90,6 +91,7 @@
 
 ## C 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
@@ -929,7 +931,6 @@
 - [tzmax/V2RayXS](https://github.com/tzmax/V2RayXS) - GUI for xray-core on macOS
 - [AppPolice/AppPolice](https://github.com/AppPolice/AppPolice) - MacOS app for quickly limiting CPU usage by running applications
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
-- [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [google/EarlGrey](https://github.com/google/EarlGrey) - :tea: iOS UI Automation Test Framework
 
@@ -1175,6 +1176,7 @@
 
 ## Python 
 
+- [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [openai/human-eval](https://github.com/openai/human-eval) - Code for the paper "Evaluating Large Language Models Trained on Code"
 - [open-kf/rag-gpt](https://github.com/open-kf/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [q2wxec/lang2openai](https://github.com/q2wxec/lang2openai) - lang2openai
@@ -1882,6 +1884,7 @@
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 - [MetaCubeX/ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) - 
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
+- [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [codete/protobuf-samples](https://github.com/codete/protobuf-samples) - 
 - [mintware-de/flutter_barcode_reader](https://github.com/mintware-de/flutter_barcode_reader) - A flutter plugin for reading 2D barcodes and QR codes.
 
@@ -1898,6 +1901,8 @@
 
 ## TypeScript 
 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 - [churichard/notabase](https://github.com/churichard/notabase) - A second brain for your knowledge, thoughts, and ideas.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
@@ -2030,7 +2035,7 @@
 
 ## Vue 
 
-- [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is an open source decentralized network software based on HTTP/2. Boundless connectivity. Meshing the world！
+- [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is an open source decentralized network software based on HTTP/2. Boundless connectivity. Mesh the world！
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
