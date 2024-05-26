@@ -289,6 +289,7 @@
 
 ## android 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [fgkeepalive/AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - android 保活,禁止卸载,防卸载,2024年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 14 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
 - [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -342,6 +343,7 @@
 
 ## api 
 
+- [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -517,6 +519,7 @@
 
 ## backend 
 
+- [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
@@ -562,6 +565,7 @@
 
 ## c 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -586,7 +590,7 @@
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（月之暗面 ）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi ）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
@@ -921,6 +925,7 @@
 
 ## django 
 
+- [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - 一个基于 HttpRunner + Django + Vue + Element UI 的接口自动化测试平台，生产可用。
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [jrobichaud/django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django
@@ -1944,6 +1949,7 @@
 
 ## low-code 
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -2058,6 +2064,7 @@
 
 ## microsoft 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
 - [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -2196,6 +2203,7 @@
 
 ## nodejs 
 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2278,7 +2286,7 @@
 - [q2wxec/lang2openai](https://github.com/q2wxec/lang2openai) - lang2openai
 - [ardentperf/dsef](https://github.com/ardentperf/dsef) - DiffStats and ExplainFull: detailed SQL reports for third party help & support
 - [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) - 
-- [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is an open source decentralized network software based on HTTP/2. Boundless connectivity. Meshing the world！
+- [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is an open source decentralized network software based on HTTP/2. Boundless connectivity. Mesh the world！
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [standardnotes/server](https://github.com/standardnotes/server) - Server ecosystem for Standard Notes; fully self-hostable.
 - [zhu327/workers-hnrss](https://github.com/zhu327/workers-hnrss) - Translate the Hacker News RSS title to the target language based on cloudflare workers, use Microsoft Azure Translation API
@@ -3172,6 +3180,7 @@
 
 ## postgresql 
 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
@@ -3237,6 +3246,7 @@
 
 ## python 
 
+- [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [open-kf/rag-gpt](https://github.com/open-kf/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [rq/rq-scheduler](https://github.com/rq/rq-scheduler) - A lightweight library that adds job scheduling capabilities to RQ (Redis Queue)
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -3793,6 +3803,7 @@
 
 ## serverless 
 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [lisonge/serverless-http-forward](https://github.com/lisonge/serverless-http-forward) - 阿里云 函数计算 HTTP 转发
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [labring/laf](https://github.com/labring/laf) - Laf is a cloud development platform offering ready-to-use resources like cloud functions, databases, and storage. It empowers developers to quickly unleash their creativity.
@@ -3949,6 +3960,7 @@
 
 ## testing 
 
+- [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [SonicCloudOrg/sonic-agent](https://github.com/SonicCloudOrg/sonic-agent) - 🎉Agent of Sonic cloud real machine platform. Sonic云真机平台Agent端。
 - [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
@@ -3990,6 +4002,7 @@
 
 ## typescript 
 
+- [saasfly/saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
@@ -4185,6 +4198,7 @@
 
 ## windows 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
