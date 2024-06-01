@@ -343,6 +343,7 @@
 
 ## api 
 
+- [llf007/public-apis-cn](https://github.com/llf007/public-apis-cn) - 🔥 将 public-apis 项目翻译为中文版，并收集添加国内常用 API，欢迎大家点赞 🌟 和贡献一行好用的 API，让这个项目成为中文版的免费 API 大全。
 - [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
@@ -1882,6 +1883,7 @@
 
 ## linux 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [XMuli/ThinkyMatePages](https://github.com/XMuli/ThinkyMatePages) - Simple and easy to use desktop application for ChatGPT & AI, will supporting Window, MacOS, Linux platforms. | 洁且易用的 ChatGPT/星火大模型 & AI 的跨平台客户端
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
@@ -1973,6 +1975,7 @@
 
 ## mac 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -2282,6 +2285,9 @@
 
 ## others 
 
+- [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
+- [bepass-org/warp-plus](https://github.com/bepass-org/warp-plus) - Warp+Psiphon, an anti censorship utility for iran
 - [hanwckf/bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
 - [pfouque/django-fsm-2](https://github.com/pfouque/django-fsm-2) - Django friendly finite state machine support
 - [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
@@ -4204,6 +4210,7 @@
 
 ## windows 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
