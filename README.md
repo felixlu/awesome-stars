@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [kirillkovalenko/nssm](https://github.com/kirillkovalenko/nssm) - Non-Sucking Service Manager
 - [Chilledheart/yass](https://github.com/Chilledheart/yass) - lightweight and efficient, socks/http forward proxy. privoxy is not required. pure native, written in c++ and rust.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
@@ -621,6 +622,7 @@
 
 ## JavaScript 
 
+- [MeYoung/Case_Minder_Vue](https://github.com/MeYoung/Case_Minder_Vue) - Case_Minder_Vue 是适合测试使用的脑图，采用Vue全家桶+Element UI + Webpack实现
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 - [kkkgo/PaoPaoGateWay](https://github.com/kkkgo/PaoPaoGateWay) - PaoPao GateWay是一个体积小巧、稳定强大的FakeIP网关
@@ -1182,6 +1184,7 @@
 
 ## Python 
 
+- [DAGWorks-Inc/burr](https://github.com/DAGWorks-Inc/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, persist, and execute on your own infrastructure.
 - [pfouque/django-fsm-2](https://github.com/pfouque/django-fsm-2) - Django friendly finite state machine support
 - [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
