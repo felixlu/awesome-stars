@@ -943,6 +943,8 @@
 
 ## Others 
 
+- [chinnsenn/ClashCustomRule](https://github.com/chinnsenn/ClashCustomRule) - 
+- [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
 - [llf007/public-apis-cn](https://github.com/llf007/public-apis-cn) - 🔥 将 public-apis 项目翻译为中文版，并收集添加国内常用 API，欢迎大家点赞 🌟 和贡献一行好用的 API，让这个项目成为中文版的免费 API 大全。
 - [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
 - [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
