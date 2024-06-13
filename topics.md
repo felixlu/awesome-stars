@@ -44,6 +44,7 @@
 - [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -774,6 +775,10 @@
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
 - [CloudDeepTeam/amazeui](https://github.com/CloudDeepTeam/amazeui) - Amaze UI, a mobile-first and modular front-end framework.
 
+## cybersecurity 
+
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
+
 ## dart 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
@@ -930,6 +935,7 @@
 
 ## django 
 
+- [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
 - [Ori-Roza/drf-api-action](https://github.com/Ori-Roza/drf-api-action) - drf-api-action elevates Django Rest Framework testing with the action_api fixture, simplifying REST endpoint testing to a seamless, function-like experience.
 - [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - 一个基于 HttpRunner + Django + Vue + Element UI 的接口自动化测试平台，生产可用。
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
@@ -1027,7 +1033,6 @@
 - [wsvincent/djangox](https://github.com/wsvincent/djangox) - Django starter project with 🔋
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [RamiKrispin/vscode-python](https://github.com/RamiKrispin/vscode-python) - A Tutorial for Setting Python Development Environment with VScode and Docker
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -1435,6 +1440,7 @@
 
 ## hacking 
 
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 
@@ -2540,7 +2546,6 @@
 - [lipengyuer/DataScience](https://github.com/lipengyuer/DataScience) - 
 - [yutiansut/DataScience](https://github.com/yutiansut/DataScience) - 
 - [PaulGilmartin/graph_wrap](https://github.com/PaulGilmartin/graph_wrap) - Transform a Django REST Framework or Tastypie based API into a fully compliant GraphQL API.
-- [shuziyimin/shuziyimin.org](https://github.com/shuziyimin/shuziyimin.org) - 数字移民导航站源码
 - [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) - 500 line or less 中文翻译计划。
 - [czj2369/jd_tb_auto](https://github.com/czj2369/jd_tb_auto) - 基于AutoJsx编写的618||双十一||淘宝||京东||幻想岛总动员||赚喵币||赚汪汪币||炸年兽任务自动完成脚本
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
@@ -2579,7 +2584,7 @@
 - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
 - [shulieTech/Takin](https://github.com/shulieTech/Takin) - Takin is an Java-based, open-source system designed to measure online environmental performance test for full-links, Especially for microservices. Through Takin, middlewares and applications can ident
 - [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
-- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（v2 版）、Hysteria 等打造常用科学上网的最优组合示例及优化配置，且提供集成特定插件的 Caddy（v2 版） 程序，分享给大家食用及自己备份。
+- [lxhao61/integrated-examples](https://github.com/lxhao61/integrated-examples) - 以 V2Ray（v4 版） 或 Xray、Nginx 或 Caddy（v2 版）、Hysteria 等打造常用科学上网的最优组合示例及优化配置，且提供集成特定插件的 Caddy（v2 版） 文件，分享给大家食用及自己备份。
 - [taowen/12fallacy](https://github.com/taowen/12fallacy) - 打造杰出软件开发团队的12条指导建议
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [aivarsk/scrapy-proxies](https://github.com/aivarsk/scrapy-proxies) - Random proxy middleware for Scrapy
@@ -3285,6 +3290,7 @@
 
 ## python 
 
+- [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [leon-thomm/Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
 - [pydantic/logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
@@ -3798,7 +3804,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
@@ -4189,6 +4195,7 @@
 
 ## web 
 
+- [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
