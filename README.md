@@ -193,7 +193,6 @@
 ## CSS 
 
 - [stilleshan/ServerStatus](https://github.com/stilleshan/ServerStatus) - 集成美化主题的 ServerStatus 服务器监控程序 docker 版.更新支持 ARM 架构
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide) - python/golang -web入坑指南
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
 - [FunctionClub/V2ray.Fun](https://github.com/FunctionClub/V2ray.Fun) - 正在开发的全新 V2ray.Fun
@@ -947,6 +946,7 @@
 
 ## Others 
 
+- [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
 - [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
 - [chinnsenn/ClashCustomRule](https://github.com/chinnsenn/ClashCustomRule) - 
 - [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
@@ -1798,7 +1798,7 @@
 
 ## SCSS 
 
-- [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is an open source decentralized network software based on HTTP/2. Boundless connectivity. Mesh the world！
+- [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is an open source and privacy first decentralized network software based on HTTP/2 tunnel. Boundless connectivity. Mesh the world！
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [NewDadaFE/react-impression](https://github.com/NewDadaFE/react-impression) - 快速构建企业级应用
@@ -2068,6 +2068,7 @@
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [jzfai/vue3-admin-template](https://github.com/jzfai/vue3-admin-template) - 🎉 A new generation vue3 admin template, It's easy and fast!
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [jzfai/vue3-admin-plus](https://github.com/jzfai/vue3-admin-plus) - 👏 An amazing admin framework of vue3
