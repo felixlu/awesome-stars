@@ -271,9 +271,9 @@
 
 ## Go 
 
-- [wzshiming/crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
+- [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy) - CRProxy (Container Registry Proxy)
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.
+- [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deploy
 - [bepass-org/warp-plus](https://github.com/bepass-org/warp-plus) - Warp+Psiphon, an anti censorship utility for iran
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [casibase/casibase](https://github.com/casibase/casibase) - Spising: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Gr
@@ -304,7 +304,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [uber-go/nilaway](https://github.com/uber-go/nilaway) - Static analysis tool to detect potential nil panics in Go code
 - [smartystreets/goconvey](https://github.com/smartystreets/goconvey) - Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure on K8s.
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
@@ -622,6 +622,7 @@
 
 ## JavaScript 
 
+- [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
 - [MeYoung/Case_Minder_Vue](https://github.com/MeYoung/Case_Minder_Vue) - Case_Minder_Vue 是适合测试使用的脑图，采用Vue全家桶+Element UI + Webpack实现
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
@@ -853,7 +854,6 @@
 
 ## Jupyter Notebook 
 
-- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
@@ -948,6 +948,7 @@
 
 ## Others 
 
+- [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
 - [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
 - [chinnsenn/ClashCustomRule](https://github.com/chinnsenn/ClashCustomRule) - 
 - [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
@@ -1193,6 +1194,7 @@
 ## Python 
 
 - [leon-thomm/Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [DAGWorks-Inc/burr](https://github.com/DAGWorks-Inc/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, persist, and execute on your own infrastructure.
 - [pfouque/django-fsm-2](https://github.com/pfouque/django-fsm-2) - Django friendly finite state machine support
 - [jazzband/django-configurations](https://github.com/jazzband/django-configurations) - A helper for organizing Django project settings by relying on well established programming patterns.
@@ -1358,7 +1360,7 @@
 - [cjolowicz/hypermodern-python](https://github.com/cjolowicz/hypermodern-python) - Hypermodern Python
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天
-- [chrisclark/django-sql-explorer](https://github.com/chrisclark/django-sql-explorer) - Easily share data across your company via SQL queries. From Grove Collab.
+- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
 - [lipengyuer/DataScience](https://github.com/lipengyuer/DataScience) - 
 - [yutiansut/DataScience](https://github.com/yutiansut/DataScience) - 
 - [NilCoalescing/djangochannelsrestframework](https://github.com/NilCoalescing/djangochannelsrestframework) - A Rest-framework for websockets using Django channels-v4
@@ -1825,7 +1827,7 @@
 
 ## Shell 
 
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方 registry 一键部署Docker、K8s、Quay、Ghcr镜像加速\管理服务.支持部署到Render
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr等镜像加速\管理服务。支持部署到Render
 - [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors) - 多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.
 - [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
