@@ -851,7 +851,7 @@
 ## cybersecurity 
 
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - Zero Trust Network Hiding Protocol (NHP) Open Source Implementation. OpenNHP Docs: https://opennhp.org/
 
 ## dart 
 
@@ -1539,6 +1539,7 @@
 
 ## hacking-tool 
 
+- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 - [dogukanatakul/anonim-browser-python3](https://github.com/dogukanatakul/anonim-browser-python3) - Fake locations, otomatic proxy ip adress and fake user agents.
 - [evilcos/xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
 
