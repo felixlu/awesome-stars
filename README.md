@@ -194,6 +194,7 @@
 
 ## CSS 
 
+- [snipcart/django-ecommerce-wagtail-v3](https://github.com/snipcart/django-ecommerce-wagtail-v3) - You can read the full tutorial at https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | This is an updated version of this repo https://github.com/snipcart/django-ecommerce-wagtail. We now
 - [stilleshan/ServerStatus](https://github.com/stilleshan/ServerStatus) - 集成美化主题的 ServerStatus 服务器监控程序 docker 版.更新支持 ARM 架构
 - [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide) - python/golang -web入坑指南
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
@@ -1228,6 +1229,7 @@
 
 ## Python 
 
+- [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [gecrooks/modern-python-template](https://github.com/gecrooks/modern-python-template) - Minimal Viable Product for an open source, github hosted, python package
