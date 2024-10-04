@@ -725,7 +725,6 @@
 - [sika-code-cloud/quasar-sika-design](https://github.com/sika-code-cloud/quasar-sika-design) - quasar-sika-design让世界没有难写的代码,Quasar Sika Design 是一个企业级中后台前端 / 设计解决方案，中后台管理模板，我们秉承 Ant Design 的设计价值观，致力于在设计规范和基础组件的基础上，继续向上构建，提炼出典型模板 / 业务组件 / 配套设计资源，进一步提升企业级中后台产品设计研发过程中的『用户』和『设计者』的体验。
 - [huiyi9420/ninja](https://github.com/huiyi9420/ninja) - 自用
 - [oevery/ninja](https://github.com/oevery/ninja) - 
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [TaleLin/lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 Vue+ElementPlus构建的CMS开发框架
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
 - [vue-microfrontends/root-config](https://github.com/vue-microfrontends/root-config) - Start here if you're learning microfrontends
@@ -2085,6 +2084,7 @@
 - [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor, open-source Web rich text editor 开源 Web 富文本编辑器
 - [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
