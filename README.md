@@ -638,6 +638,7 @@
 
 ## JavaScript 
 
+- [shaoyouvip/uptime](https://github.com/shaoyouvip/uptime) - 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 - [uxiaohan/CloudflareIP-dnspod-ddns](https://github.com/uxiaohan/CloudflareIP-dnspod-ddns) - Cloudflare优选IP，并通过dnspod自动切换，15分钟更新一次
 - [juerson/config_to_sub](https://github.com/juerson/config_to_sub) - 免费在 Cloudflare Workers / Papes 中部署一个节点订阅网站，在线提取 ChromeGo/EdgeGo 里面的代理节点，然后转换成 vless、vmess、ss、hysteria、hy2、tuic、naiveproxy 链接，也可以作为订阅地址使用。
 - [ansoncloud8/am-tunnel](https://github.com/ansoncloud8/am-tunnel) - 这是一个基于 Cloudflare Workers 和 Pages平台的脚本，在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS、trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中。
@@ -1229,6 +1230,7 @@
 
 ## Python 
 
+- [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience.
 - [THUDM/CodeGeeX4](https://github.com/THUDM/CodeGeeX4) - CodeGeeX4-ALL-9B, a versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
