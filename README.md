@@ -433,7 +433,7 @@
 - [InkProject/ink](https://github.com/InkProject/ink) - An elegant static blog generator
 - [astaxie/bat](https://github.com/astaxie/bat) - Go implement CLI, cURL-like tool for humans
 - [yinghuocho/firefly-proxy](https://github.com/yinghuocho/firefly-proxy) - A proxy software to help circumventing the Great Firewall.
-- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - NHP: A lightweight cryptography-driven zero trust networking protocol at the OSI 5th layer to hide your server and data from attackers.
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp) - NHP: A lightweight cryptography-driven Zero Trust networking protocol at the OSI 5th layer to hide your server and data from attackers.
 - [getqujing/qtunnel](https://github.com/getqujing/qtunnel) - A secure socket tunnel works on getqujing.com
 - [wendal/gor](https://github.com/wendal/gor) - Golang编写的静态博客引擎
 - [nybuxtsui/gowalk](https://github.com/nybuxtsui/gowalk) - 代理服务器
@@ -660,7 +660,7 @@
 - [CattleZoe/Gemini-proxy](https://github.com/CattleZoe/Gemini-proxy) - gemini-proxy-cloudflare
 - [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,Realtime; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+- [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [fatwang2/coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
 - [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
@@ -772,7 +772,7 @@
 - [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
 - [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
