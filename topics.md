@@ -233,6 +233,7 @@
 
 ## ai 
 
+- [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
@@ -528,6 +529,7 @@
 
 ## awesome-list 
 
+- [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
@@ -643,7 +645,7 @@
 ## chatbot 
 
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [casibase/casibase](https://github.com/casibase/casibase) - AI Cloud: ⚡️Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, G
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
@@ -664,6 +666,7 @@
 
 ## chatgpt 
 
+- [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
 - [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -689,7 +692,7 @@
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Dify、Claude、Gemini、gpt4free、Ollama、Gitee AI、DeepSeek、Moonshot、ChatGLM、xAI 等 LLM 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / QQ频道 / OneBot / 企业微信 等多种消息平台 | 支持 OpenAI GPT、Dify、Claude、Gemini、Ollama、Gitee AI、DeepSeek、Moonshot、ChatGLM、xAI 等 LLM 的机器人 / Agent 平台
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
@@ -960,7 +963,7 @@
 ## database 
 
 - [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool) - Database connection pool component library for Django
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -1022,6 +1025,7 @@
 
 ## design 
 
+- [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [sika-code-cloud/quasar-sika-design](https://github.com/sika-code-cloud/quasar-sika-design) - quasar-sika-design让世界没有难写的代码,Quasar Sika Design 是一个企业级中后台前端 / 设计解决方案，中后台管理模板，我们秉承 Ant Design 的设计价值观，致力于在设计规范和基础组件的基础上，继续向上构建，提炼出典型模板 / 业务组件 / 配套设计资源，进一步提升企业级中后台产品设计研发过程中的『用户』和『设计者』的体验。
 - [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
@@ -1252,7 +1256,7 @@
 
 ## electron 
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
@@ -1789,7 +1793,6 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport) - Module for remote in-memory Python package/module loading through HTTP/S
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -2142,7 +2145,7 @@
 
 ## llm 
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
@@ -2561,7 +2564,7 @@
 
 ## openai 
 
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 - [XiaomingX/awesome-qwen-prompt-insight](https://github.com/XiaomingX/awesome-qwen-prompt-insight) - 🧠 世界上覆盖最全的优秀Qwen提示语大全，欢迎贡献你的提示词。🧠 The most comprehensive collection of excellent Qwen prompts in the world. Feel free to contribute your own prompts!
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -2586,7 +2589,7 @@
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
-- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Dify、Claude、Gemini、gpt4free、Ollama、Gitee AI、DeepSeek、Moonshot、ChatGLM、xAI 等 LLM 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台；原名 QChatGPT
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / QQ频道 / OneBot / 企业微信 等多种消息平台 | 支持 OpenAI GPT、Dify、Claude、Gemini、Ollama、Gitee AI、DeepSeek、Moonshot、ChatGLM、xAI 等 LLM 的机器人 / Agent 平台
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
@@ -2617,7 +2620,7 @@
 
 ## others 
 
-- [RooVetGit/Roo-Cline](https://github.com/RooVetGit/Roo-Cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
@@ -2639,7 +2642,7 @@
 - [carltongibson/django-template-partials](https://github.com/carltongibson/django-template-partials) - Reusable named inline partials for the Django Template Language.
 - [StavinLi/Workflow](https://github.com/StavinLi/Workflow) - 仿钉钉审批流程设置
 - [amzn/selling-partner-api-models](https://github.com/amzn/selling-partner-api-models) - This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.
-- [block/goose](https://github.com/block/goose) - Goose is a developer agent that operates from your command line to help you do the boring stuff.
+- [block/goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [michael-andreuzza/quickstore](https://github.com/michael-andreuzza/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
@@ -2678,7 +2681,7 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 - [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy) - CRProxy (Container Registry Proxy) is a generic image proxy
-- [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
+- [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A groundbreaking open-source browser translation extension that allows everyone to enjoy a reading experience akin to their native language. 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 - [chinnsenn/ClashCustomRule](https://github.com/chinnsenn/ClashCustomRule) - 
 - [cutethotw/ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
@@ -4146,7 +4149,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -4191,7 +4194,7 @@
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
-- [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+- [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
@@ -4734,7 +4737,7 @@
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray core and sing-box-core and others
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
