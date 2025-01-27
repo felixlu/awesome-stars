@@ -672,7 +672,6 @@
 - [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
 - [zadam/trilium-web-clipper](https://github.com/zadam/trilium-web-clipper) - Save web clippings to Trilium Notes.
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-- [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A groundbreaking open-source browser translation extension that allows everyone to enjoy a reading experience akin to their native language. 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu
 - [MeYoung/Case_Minder_Vue](https://github.com/MeYoung/Case_Minder_Vue) - Case_Minder_Vue 是适合测试使用的脑图，采用Vue全家桶+Element UI + Webpack实现
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [flomesh-io/ztm](https://github.com/flomesh-io/ztm) - ZTM (Zero Trust Mesh) is a privacy-first open-source decentralized network software based on HTTP/2 tunnels. Experience boundless connectivity and mesh the globe!
@@ -2057,6 +2056,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
+- [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A groundbreaking open-source browser translation extension that allows everyone to enjoy a reading experience akin to their native language. 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
