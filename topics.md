@@ -1809,7 +1809,7 @@
 
 ## http 
 
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An easy and powerful Python HTTP Client with Black Magic
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP client with TLS fingerprint
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -1846,7 +1846,7 @@
 
 ## https 
 
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An easy and powerful Python HTTP Client with Black Magic
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP client with TLS fingerprint
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [homeinfra-org/infra](https://github.com/homeinfra-org/infra) - Homeinfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker m
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -3702,7 +3702,7 @@
 ## python 
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An easy and powerful Python HTTP Client with Black Magic
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP client with TLS fingerprint
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
