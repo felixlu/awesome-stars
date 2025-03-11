@@ -1903,7 +1903,7 @@
 
 ## Rust 
 
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An easy and powerful Python HTTP Client with Black Magic
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP client with TLS fingerprint
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
