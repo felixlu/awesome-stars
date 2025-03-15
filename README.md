@@ -103,7 +103,7 @@
 - [Circuit-Digest/ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [redis/hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis
-- [jakkra/ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
+- [ZSWatch/ZSWatch](https://github.com/ZSWatch/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
