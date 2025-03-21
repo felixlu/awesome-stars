@@ -1634,7 +1634,7 @@
 - [Dementiy/urlimport](https://github.com/Dementiy/urlimport) - Loading python modules and packages from a remote machine
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport) - Module for remote in-memory Python package/module loading through HTTP/S
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [espressif/esptool](https://github.com/espressif/esptool) - Espressif SoC serial bootloader utility
+- [espressif/esptool](https://github.com/espressif/esptool) - Serial utility for flashing, provisioning, and interacting with Espressif SoCs
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [gavinwahl/django-optimistic-lock](https://github.com/gavinwahl/django-optimistic-lock) - Offline optimistic locking for Django
 - [BruceWW/pyapollo](https://github.com/BruceWW/pyapollo) - Python client for Ctrip's Apollo.
