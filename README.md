@@ -971,7 +971,6 @@
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
@@ -1467,6 +1466,7 @@
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [TencentQQGYLab/ComfyUI-ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) - ELLA nodes for ComfyUI
@@ -2202,7 +2202,7 @@
 - [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Connect VS Code with free chatbots and apply suggested edits
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - CWC connects your code editor with free chatbots and applies chat responses for fast and privacy-first AI coding. Works with VS Code, Cursor, and other forks.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
