@@ -1627,7 +1627,7 @@
 - [LKI/chinese-calendar](https://github.com/LKI/chinese-calendar) - 判断一天是不是法定节假日/法定工作日（查看节假日安排）
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
-- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
+- [PiotrMachowski/Xiaomi-cloud-tokens-extractor](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor) - This tool retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.
 - [terryyin/translate-python](https://github.com/terryyin/translate-python) - Online translation as a Python module & command line tool. No key, no authentication needed.
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
 - [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
@@ -2069,6 +2069,7 @@
 
 ## Shell 
 
+- [affinityv/INI-RDPWRAP](https://github.com/affinityv/INI-RDPWRAP) - 
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [sixfeetup/scaf](https://github.com/sixfeetup/scaf) - scaf is a template manager that simplifies bootstrapping and updating projects.
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
