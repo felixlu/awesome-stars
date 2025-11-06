@@ -271,6 +271,7 @@
 
 ## ai 
 
+- [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [AIDotNet/auto-prompt](https://github.com/AIDotNet/auto-prompt) - AI Prompt Optimization Platform is a professional prompt engineering tool designed to help users optimize AI model prompts, enhancing the effectiveness and accuracy of AI interactions. The platform in
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
@@ -278,22 +279,21 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic AI coding in free chatbots for VS Code, Cursor and Windsurf.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The privacy AI coding without agents
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [apache/burr](https://github.com/apache/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
@@ -310,7 +310,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
 - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will h
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
@@ -341,7 +341,7 @@
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
 ## ajax 
@@ -352,7 +352,7 @@
 
 - [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [BigBrotherTrade/trader](https://github.com/BigBrotherTrade/trader) - 交易模块
+- [timercrack/trader](https://github.com/timercrack/trader) - 交易模块
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -371,11 +371,10 @@
 
 ## analytics 
 
-- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 - [mikeckennedy/umami-python](https://github.com/mikeckennedy/umami-python) - Umami Analytics Client for Python #pypackage
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
@@ -446,11 +445,12 @@
 
 ## ansible 
 
+- [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
 - [DevopsChina/lab](https://github.com/DevopsChina/lab) - We hope all friends who are holding a fresh secret technique in the DevOps toolchain sign up for the online sharing in the community. 希望所有在 DevOps 工具链方面怀揣着一招鲜秘技的朋友们都报名社区的线上分享
 
 ## api 
 
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [denisneuf/python-amazon-ad-api](https://github.com/denisneuf/python-amazon-ad-api) - Python Amazon Advertising API
 - [iimeta/fastapi](https://github.com/iimeta/fastapi) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -467,7 +467,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [ghazi-git/drf-standardized-errors](https://github.com/ghazi-git/drf-standardized-errors) - Standardize your DRF API error responses
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
@@ -492,7 +492,7 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [HealthByRo/drf_tweaks](https://github.com/HealthByRo/drf_tweaks) - Extensions for Django Rest Framework
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
@@ -515,7 +515,7 @@
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [aimagelab/dress-code](https://github.com/aimagelab/dress-code) - Dress Code: High-Resolution Multi-Category Virtual Try-On. ECCV 2022
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -575,6 +575,7 @@
 
 ## awesome 
 
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular softwares
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
@@ -695,7 +696,7 @@
 
 ## blockchain 
 
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 
 ## bootstrap 
@@ -762,9 +763,10 @@
 
 ## chatgpt 
 
+- [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Non-agentic AI coding in free chatbots for VS Code, Cursor and Windsurf.
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - The privacy AI coding without agents
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 - [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
@@ -779,22 +781,21 @@
 - [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择ChatGPT/Claude/DeepSeek/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [XMuli/ThinkyMate](https://github.com/XMuli/ThinkyMate) - Simple and easy to use desktop application for ChatGPT & AI, will supporting Window, MacOS, Linux platforms. | 洁且易用的 ChatGPT/星火大模型 & AI 的跨平台客户端
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [SMNETSTUDIO/Groq2API](https://github.com/SMNETSTUDIO/Groq2API) - Free Groq API
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - 🤩 Easy-to-use global IM bot platform designed for LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT(GPT), De
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
@@ -885,12 +886,12 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
@@ -1000,7 +1001,7 @@
 
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP Client with TLS fingerprint
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -1107,7 +1108,7 @@
 ## data-visualization 
 
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
-- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -1188,6 +1189,7 @@
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [capistrano/capistrano](https://github.com/capistrano/capistrano) - A deployment automation tool built on Ruby, Rake, and SSH.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 
 ## design 
@@ -1205,12 +1207,12 @@
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [EasyFrontendHQ/html-tailwindcss-components](https://github.com/EasyFrontendHQ/html-tailwindcss-components) - Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
@@ -1226,7 +1228,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - A toolkit for Integrating with your kubernetes dev environment more efficiently
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
@@ -1279,6 +1281,8 @@
 
 ## django 
 
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
+- [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
 - [Yosef-AlSabbah/drf-standardized-responses](https://github.com/Yosef-AlSabbah/drf-standardized-responses) - A Django app for Django REST Framework that provides consistent, standardized API responses, pagination, and error handling out of the box — ensuring predictable and clean JSON across your API.
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 - [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
@@ -1370,8 +1374,7 @@
 ## docker 
 
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [benbristow/dokploy-compose-templates](https://github.com/benbristow/dokploy-compose-templates) - Collection of docker-compose configs for self-hosted tools, compatible with Dokploy
@@ -1390,7 +1393,7 @@
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1452,6 +1455,7 @@
 
 ## documentation 
 
+- [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1653,7 +1657,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
@@ -1737,7 +1741,7 @@
 
 ## go 
 
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [zkep/my-geektime](https://github.com/zkep/my-geektime) - 👏 极客时间下载器 & 在线文档
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1879,7 +1883,7 @@
 - [ading2210/poe-api](https://github.com/ading2210/poe-api) - [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
 - [yezyilomo/django-restql](https://github.com/yezyilomo/django-restql) - Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
 - [phalt/django-api-domains](https://github.com/phalt/django-api-domains) - A pragmatic styleguide for Django API Projects
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
 - [vuejs/apollo](https://github.com/vuejs/apollo) - 🚀 Apollo/GraphQL integration for VueJS
 
@@ -1896,6 +1900,7 @@
 
 ## hacktoberfest 
 
+- [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -1907,7 +1912,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -1920,7 +1925,6 @@
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [jrobichaud/django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
@@ -1929,6 +1933,7 @@
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
@@ -2057,7 +2062,7 @@
 
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP Client with TLS fingerprint
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -2076,7 +2081,7 @@
 - [fcsonline/drill](https://github.com/fcsonline/drill) - Drill is an HTTP load testing application written in Rust
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport) - Module for remote in-memory Python package/module loading through HTTP/S
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
@@ -2094,7 +2099,7 @@
 
 ## https 
 
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP Client with TLS fingerprint
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 - [homeinfra-org/infra](https://github.com/homeinfra-org/infra) - Homeinfra offers a strong, dependable, and easily replicable configuration for your homelab, incorporating vital elements like HTTPS, NAT traversal, Security, CI/CD pipelines, Cronjobs, DDNS, Docker m
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -2181,7 +2186,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
-- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [imacrayon/alpine-ajax](https://github.com/imacrayon/alpine-ajax) - An Alpine.js plugin for building server-powered frontends.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
@@ -2352,6 +2357,7 @@
 
 ## kubernetes 
 
+- [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [k8s-club/k8s-club](https://github.com/k8s-club/k8s-club) - K8s-club for learn, share and explore the K8s world :)
@@ -2403,6 +2409,7 @@
 ## laravel 
 
 - [beikeshop/beikeshop](https://github.com/beikeshop/beikeshop) - 🔥🔥🔥 Free open source and easy-to-use laravel eCommerce platform, Base on the Laravel . It supports multiple languages and currencies, integrates ChatGPT OpenAI. The platform features customizable visu
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 
 ## latex 
 
@@ -2466,6 +2473,7 @@
 
 ## llm 
 
+- [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -2473,7 +2481,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
@@ -2490,13 +2498,13 @@
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - AI画图。每天一句中国古诗词，生成 AI 图片。
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
@@ -2626,7 +2634,7 @@
 
 ## markdown 
 
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) - 👏极客时间 pdf & markdown 文档
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -2686,7 +2694,6 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
@@ -2700,6 +2707,7 @@
 
 ## monitoring 
 
+- [getkanchi/kanchi](https://github.com/getkanchi/kanchi) - A realtime celery task monitoring and management system
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [munin-monitoring/munin](https://github.com/munin-monitoring/munin) - Main repository for munin master / node / plugins
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
@@ -2709,7 +2717,7 @@
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale for monitoring and alerting, just as Grafana for visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [dora-team/fourkeys](https://github.com/dora-team/fourkeys) - Platform for monitoring the four key software delivery metrics of software delivery
 - [pinpoint-apm/pinpoint](https://github.com/pinpoint-apm/pinpoint) - APM, (Application Performance Management) tool for large-scale distributed systems.
@@ -2738,7 +2746,7 @@
 - [altairbow/django-db-connection-pool](https://github.com/altairbow/django-db-connection-pool) - Database connection pool component library for Django
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
@@ -2789,6 +2797,7 @@
 
 ## nextjs 
 
+- [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel) - A versatile, production-ready Django project template for any use case  Build SaaS applications, API backends, web apps, or internal tools with one template.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
@@ -2800,14 +2809,14 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [hehehai/x-hiring](https://github.com/hehehai/x-hiring) - 🤗 每日最新招聘信息，使用 Google AI 提取摘要
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -2855,7 +2864,7 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -2927,8 +2936,8 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -2945,7 +2954,6 @@
 
 ## openai 
 
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 - [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -2969,19 +2977,19 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [XMuli/ThinkyMate](https://github.com/XMuli/ThinkyMate) - Simple and easy to use desktop application for ChatGPT & AI, will supporting Window, MacOS, Linux platforms. | 洁且易用的 ChatGPT/星火大模型 & AI 的跨平台客户端
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - 🤩 Easy-to-use global IM bot platform designed for LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT(GPT), De
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 - [juzeon/poe-openai-proxy](https://github.com/juzeon/poe-openai-proxy) - A wrapper that lets you use the reverse-engineered Python library poe-api library as if it was the OpenAI API for ChatGPT. You can connect your favorite OpenAI API based apps to this proxy and enjoy t
@@ -3014,6 +3022,11 @@
 
 ## others 
 
+- [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
+- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，6种辅助码，可扩展。支持混合编码输入，内置超级注释、带调全拼输入码显示、快符、候选手动排序、tips、首选成对符号包裹等功能扩展，大大增强使用体验。　　Q群：11033572
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
+- [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
 - [affinityv/INI-RDPWRAP](https://github.com/affinityv/INI-RDPWRAP) - 
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -3402,7 +3415,6 @@
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [yichen0831/opencc-python](https://github.com/yichen0831/opencc-python) - OpenCC made with Python
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-- [KMSPicoOfficial/KMSPico-Portable](https://github.com/KMSPicoOfficial/KMSPico-Portable) - Official kmspico by TeamDaz®
 - [approvals/ApprovalTests.Python](https://github.com/approvals/ApprovalTests.Python) - ApprovalTests for python
 - [retest/recheck-web](https://github.com/retest/recheck-web) - recheck for web apps – change comparison tool with local Golden Masters, Git-like ignore syntax and "Unbreakable Selenium" tests.
 - [badO1a5A90/Performance](https://github.com/badO1a5A90/Performance) - Xray/v2ray/trojan/shadowsocks 基础性能测试及针对性测试.
@@ -3998,7 +4010,7 @@
 ## php 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
@@ -4020,7 +4032,6 @@
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -4057,6 +4068,7 @@
 
 ## productivity 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -4106,19 +4118,21 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [nicejade/vue-boilerplate-template](https://github.com/nicejade/vue-boilerplate-template) - 🍎 Efficient development of web SPA using Vue.js(2.*) + Webpack + Element-ui + Pwa + Vuex + Vuex-router + Vue-i18n + Dayjs + Lodash.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## python 
 
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
+- [getkanchi/kanchi](https://github.com/getkanchi/kanchi) - A realtime celery task monitoring and management system
 - [ctripcorp/flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
-- [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [cenobites/flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) - Basic JSON-RPC implementation for your Flask-powered sites
 - [pavlov99/json-rpc](https://github.com/pavlov99/json-rpc) - 🔁 JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -4135,7 +4149,7 @@
 - [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
 - [pycasbin/django-authorization](https://github.com/pycasbin/django-authorization) - Per object permissions for Django, see example at: https://github.com/pycasbin/django-authorization-example
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [0x676e67/rnet](https://github.com/0x676e67/rnet) - A blazing-fast Python HTTP Client with TLS fingerprint
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
@@ -4161,7 +4175,7 @@
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. W
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -4173,7 +4187,7 @@
 - [serious-scaffold/ss-python](https://github.com/serious-scaffold/ss-python) - A Python Project Template for Long-Term Maintainability
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [django-commons/django-prometheus](https://github.com/django-commons/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
@@ -4519,7 +4533,7 @@
 ## react 
 
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
@@ -4580,7 +4594,6 @@
 
 ## reactjs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [Zaelot-Inc/ui-libraries](https://github.com/Zaelot-Inc/ui-libraries) - A collection of UI Frameworks and their platform implementations.
@@ -4620,7 +4633,7 @@
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [wq/django-rest-pandas](https://github.com/wq/django-rest-pandas) - 📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
 - [rest-assured/rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
@@ -4653,9 +4666,11 @@
 
 ## rust 
 
+- [FarhanAliRaza/django-bolt](https://github.com/FarhanAliRaza/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+- [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -4728,7 +4743,8 @@
 
 ## self-hosted 
 
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -4745,6 +4761,7 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -4770,6 +4787,7 @@
 
 ## server 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
 - [0x676e67/ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
@@ -4860,7 +4878,7 @@
 ## sqlite 
 
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -4897,11 +4915,12 @@
 
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [egoist/poi](https://github.com/egoist/poi) - ⚡A zero-config bundler for JavaScript applications.
 
 ## swift 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
@@ -4931,6 +4950,7 @@
 
 ## tailwindcss 
 
+- [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind) - Django + Tailwind CSS = 💚
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
@@ -5018,7 +5038,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [thombashi/allpairspy](https://github.com/thombashi/allpairspy) - A python library for test combinations generator. The generator allows one to create a set of tests using "pairwise combinations" method, reducing a number of combinations of variables into a lesser s
 - [google/mobly](https://github.com/google/mobly) - E2E test framework for tests with complex environment requirements.
 - [Tencent/QTAF](https://github.com/Tencent/QTAF) - QTA test framework
@@ -5156,7 +5176,6 @@
 ## visual-studio-code 
 
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## visualization 
@@ -5239,7 +5258,7 @@
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [fecshop/yii2_fecshop](https://github.com/fecshop/yii2_fecshop) - yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等
 - [yansenlei/VJsoneditor](https://github.com/yansenlei/VJsoneditor) - :large_blue_diamond: vue use jsoneditor
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use lighttpd + Lua-eco + Vue3 + Vite + Element Plus.
 - [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
@@ -5271,7 +5290,6 @@
 
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -5279,7 +5297,7 @@
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 - [pratik227/quasar-admin](https://github.com/pratik227/quasar-admin) - Free Quasar Admin Template based on Vue.js and used Quasar Framework.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [yugasun/You-May-Not-Know-Vuejs](https://github.com/yugasun/You-May-Not-Know-Vuejs) - Vuejs 从入门到精通系列文章
 - [NdagiStanley/vue-django](https://github.com/NdagiStanley/vue-django) - @Django integrated with a full-featured @Webpack + (@vuejs / vue-loader) setup with hot reload, linting, testing & css extraction.
