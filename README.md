@@ -270,6 +270,7 @@
 
 ## Dart 
 
+- [moraxs/CyreneMusic](https://github.com/moraxs/CyreneMusic) - flutter开发的第三方音乐播放器
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [canxin121/app_rhyme](https://github.com/canxin121/app_rhyme) - 使用Flutter和Rust构建的开源免费音乐软件
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
