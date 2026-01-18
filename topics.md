@@ -3159,6 +3159,7 @@
 
 ## others 
 
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [chenjigang4167/testhub_platform](https://github.com/chenjigang4167/testhub_platform) - AI-Powered Testing Platform
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
@@ -3834,7 +3835,6 @@
 - [yalishizhude/RxWX](https://github.com/yalishizhude/RxWX) - 用于微信小程序的RxJS，将微信API函数全部RxJS化，封装成Observable对象，支持wepy，RxJS for weixin miniprogram
 - [apache/brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means 
 - [GOOD21/shadowsocks-privoxy](https://github.com/GOOD21/shadowsocks-privoxy) - shadowsocks and privoxy
-- [zhaxg/docker-lantern-ss](https://github.com/zhaxg/docker-lantern-ss) - 
 - [tuomur/celery_sqlalchemy_scheduler](https://github.com/tuomur/celery_sqlalchemy_scheduler) - Celery scheduler that uses SQLAlchemy for storage.
 - [mislav/anyenv](https://github.com/mislav/anyenv) - rbenv-inspired version manager that can be configured to manage versions of ANYTHING
 - [luosijie/vue-resume](https://github.com/luosijie/vue-resume) - Resume template based on Vue
