@@ -371,6 +371,7 @@
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [httprunner/funplugin](https://github.com/httprunner/funplugin) - HttpRunner function plugin
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 - [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
@@ -1005,7 +1006,7 @@
 
 ## Lua 
 
-- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066
+- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime方案配置：万象拼音，一个类大厂习惯的输入方案，首个全带调词库。多版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持10种双拼，7种辅助码，可扩展。支持混合编码输入，内置超级注释、快符、候选手动排序、tips、等功能扩展，大大增强使用体验，详见README和release。Q群：11033572/11631066
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
@@ -1241,7 +1242,7 @@
 - [ictar/python-doc](https://github.com/ictar/python-doc) - translate python documents to Chinese for convenient reference 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
 - [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
 - [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
-- [minaisland/FakeDoubanGroup](https://github.com/minaisland/FakeDoubanGroup) - 
+- [wildwho/FakeDoubanGroup](https://github.com/wildwho/FakeDoubanGroup) - 
 - [jobbole/awesome-web-dev-books](https://github.com/jobbole/awesome-web-dev-books) - 如果有人让你推荐前端技术书，请让他看这个列表
 - [alivebao/clean-code-js](https://github.com/alivebao/clean-code-js) - JavaScript风格指南
 - [eduosi/district](https://github.com/eduosi/district) - 中国省/自治区/直辖市、市/自治州、区/县/旗数据，包含名称、拼音、拼音首字母、行政代码、区号
@@ -1510,7 +1511,6 @@
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 - [tahitimoon/LunarLink](https://github.com/tahitimoon/LunarLink) - An interface automation testing platform based on HttpRunner + Django + Vue + Element UI, production-ready.
