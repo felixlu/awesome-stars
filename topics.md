@@ -1361,7 +1361,7 @@
 - [moul/sshportal](https://github.com/moul/sshportal) - :tophat: simple, fun and transparent SSH (and telnet) bastion server
 - [guohongze/adminset](https://github.com/guohongze/adminset) - 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
@@ -1536,7 +1536,7 @@
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [onplus/v2hero](https://github.com/onplus/v2hero) - All Free . Deploy V2Ray to Heroku . v2ray学习参考
 - [agconti/cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [mritd/dockerfile](https://github.com/mritd/dockerfile) - some personally made dockerfile
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
@@ -2510,7 +2510,7 @@
 - [cnych/kubernetes-learning](https://github.com/cnych/kubernetes-learning) - 《从Docker到Kubernetes进阶课程》在线文档
 - [zalando/zalenium](https://github.com/zalando/zalenium) - A flexible and scalable container based Selenium Grid with video recording, live preview, basic auth & dashboard.
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -2578,7 +2578,7 @@
 - [lan-tianxiang/jd_shell](https://github.com/lan-tianxiang/jd_shell) - Node网页开发工具
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [freeipa/freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 最新Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [wizardforcel/llthw-zh](https://github.com/wizardforcel/llthw-zh) - :book: [译] 笨办法学 Linux
 - [kref/scripts](https://github.com/kref/scripts) - This project attempts to improve DSM's compatibility
@@ -2666,7 +2666,7 @@
 - [crudapi/crudapi-admin-web](https://github.com/crudapi/crudapi-admin-web) - crudapi增删改查接口零代码后台管理页面，一键快速CRUD。框架采用Vue，控件库为Quasar， 形式为SPA单页面应用。 主要知识点：Vue基本知识，自定义组件，axios网络请求，Vuex状态管理，Router路由，本地存储LocalStorage、Session、Cookie，登录，本地调试，docker打包等。 主要功能：元数据管理，序列号管理，表关系设置，业务数据crud增删改查，
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be 
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文
 
 ## lua 
 
@@ -4221,7 +4221,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be 
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [ty4z2008/Qix](https://github.com/ty4z2008/Qix) - Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -5010,7 +5010,7 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [touch-callable/touch-callable](https://github.com/touch-callable/touch-callable) - Automatically generate a Web UI for Python function using type annotations.
-- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be 
+- [Tencent/APIJSON](https://github.com/Tencent/APIJSON) - 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the response JSON can be customized by Frontend(Client) users 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文
 
 ## shell 
 
