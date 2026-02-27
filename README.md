@@ -112,6 +112,7 @@
 - [ZSWatch/ZSWatch](https://github.com/ZSWatch/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [mydumper/mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
+- [timercrack/trader](https://github.com/timercrack/trader) - 期货自动交易
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [openctp/openctp](https://github.com/openctp/openctp) - openctp提供CTP股票期权、中泰证券XTP、华鑫证券奇点TORA、东方证券OST、东方财富证券EMT、盈透证券TWS、易盛TAP、量投QDP等各通道的CTPAPI兼容接口，CTP程序可以无缝对接各股票柜台。openctp也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，不仅支持国内期货与期权全品种，也支持A股股票、基金、债券以及股票期权模拟交易，可以替代Simnow，
 - [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) - React Native module for CodePush
@@ -363,6 +364,7 @@
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [hoppscotch/proxyscotch](https://github.com/hoppscotch/proxyscotch) - 📡 A simple proxy server created for https://hoppscotch.io
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw and websites in one click.
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -521,6 +523,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
 - [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
+- [shaoyouvip/uptime](https://github.com/shaoyouvip/uptime) - 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 - [Cybecho/Windows_Setting_dotfiles](https://github.com/Cybecho/Windows_Setting_dotfiles) - by glazeWM , PowerToys , WSL2 , etc ...
 - [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA）Free Wildcard Certificates，支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt,ZeroSSL,Google 等支持 ACME 协议的证书颁发机构申请pem格式证书
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
@@ -732,7 +735,6 @@
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [holistics/dbml](https://github.com/holistics/dbml) - Database Markup Language (DBML), designed to define and document database structures
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
-- [shaoyouvip/uptime](https://github.com/shaoyouvip/uptime) - 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 - [uxiaohan/CloudflareIP-dnspod-ddns](https://github.com/uxiaohan/CloudflareIP-dnspod-ddns) - Cloudflare优选IP，并通过dnspod自动切换，15分钟更新一次
 - [juerson/config_to_sub](https://github.com/juerson/config_to_sub) - 免费在 Cloudflare Workers / Papes 中部署一个节点订阅网站，在线提取 ChromeGo/EdgeGo 里面的代理节点，然后转换成 vless、vmess、ss、trojan、hysteria、hy2、tuic、naiveproxy 链接，也可以作为订阅地址使用。
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
@@ -752,7 +754,6 @@
 - [1c7/Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - （no longer maintained）（停止维护）功能：下载 Youtube 字幕，Download Youtube Subtitles（备注：因为不能带来收入，而且我自己也没有下载字幕的需求了，所以不再维护，除非情况有所改变）
 - [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika,udio; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [fatwang2/coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
@@ -1081,7 +1082,7 @@
 
 ## Others 
 
-- [KimYx0207/Claude-Code-Guide-Zh](https://github.com/KimYx0207/Claude-Code-Guide-Zh) - 老金版ClaudeCode初学者教程
+- [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) - 从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [soluckysummer/n8n_workflows](https://github.com/soluckysummer/n8n_workflows) - 此仓库存储我在YouTube频道分享的N8N工作流配置文件，用户可直接下载JSON文件导入N8N使用
 - [MiniMax-AI/MiniMax-M2](https://github.com/MiniMax-AI/MiniMax-M2) - MiniMax-M2, a model built for Max coding & agentic workflows.
@@ -1529,7 +1530,7 @@
 - [codefuse-ai/Test-Agent](https://github.com/codefuse-ai/Test-Agent) - Agent that empowers software testing with LLMs; industrial-first in China
 - [django-commons/django-prometheus](https://github.com/django-commons/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [jrobichaud/django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ e.g. Integrated w
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [O365/python-o365](https://github.com/O365/python-o365) - A simple python library to interact with Microsoft Graph and Office 365 API
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [django-q2/django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django based on Django-Q
@@ -1588,7 +1589,6 @@
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [wondertrader/wtpy](https://github.com/wondertrader/wtpy) - wtpy是基于wondertrader为底层的针对python的子框架
-- [timercrack/trader](https://github.com/timercrack/trader) - 交易模块
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
 - [PyCQA/modernize](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3)
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
@@ -2470,7 +2470,7 @@
 - [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 - [yansenlei/VJsoneditor](https://github.com/yansenlei/VJsoneditor) - :large_blue_diamond: vue use jsoneditor
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
+- [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Free Vue Admin & Dashboard Template Built for AI-Assisted Development
 - [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 - [jinzhe/vue-calendar](https://github.com/jinzhe/vue-calendar) - A calendar components for Vue.js.
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
