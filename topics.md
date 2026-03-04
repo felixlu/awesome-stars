@@ -94,6 +94,7 @@
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1669,6 +1670,23 @@
 
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
+## fastapi 
+
+- [fastapi-practices/fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - FastAPI 企业级后端架构解决方案 | Enterprise-level backend architecture solution with fastapi、sqlalchemy,、celery、pydantic、grafana、docker...
+- [HogaStack/Dash-FastAPI-Admin](https://github.com/HogaStack/Dash-FastAPI-Admin) - A general middle and backend management system developed purely in Python based on Dash+FastAPI.基于Dash+FastAPI纯Python开发的一个通用中后台管理系统。
+- [iimeta/fastapi](https://github.com/iimeta/fastapi) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
+- [baizunxian/zerorunner](https://github.com/baizunxian/zerorunner) - 一个全栈测试自动化平台，使用fastapi + vue3 ，快速实现接口自动化，方便维护扩展
+- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+- [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
+- [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
+- [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+- [wuranxu/pity](https://github.com/wuranxu/pity) - 🎉一个不再迭代的开源接口测试平台，欢迎大家多提issue多给反馈。 求star⭐，我会尽量更新下去的！
+- [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
 ## finance 
 
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -3233,7 +3251,6 @@
 - [moraxs/CyreneMusic](https://github.com/moraxs/CyreneMusic) - flutter开发的第三方音乐播放器
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
-- [fastapi-practices/fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - FastAPI 企业级后端架构解决方案 | Enterprise-level backend architecture solution with fastapi、sqlalchemy,、celery、pydantic、grafana、docker...
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [cundi/Django-Design-Patterns-and-Best-Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices) - 《Django设计模式与最佳实践》2015年03月-基于Django 1.7
@@ -3488,7 +3505,6 @@
 - [wjz304/arpl-zh_CN](https://github.com/wjz304/arpl-zh_CN) - Automated Redpill Loader(zh_CN)
 - [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
 - [lowcoding/lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT and other LLM
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [jzfai/vue3-admin-template](https://github.com/jzfai/vue3-admin-template) - 🎉 A new generation vue3 admin template, It's easy and fast!
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
