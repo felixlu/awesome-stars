@@ -352,7 +352,7 @@
 - [apache/burr](https://github.com/apache/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
 - [pydantic/logfire](https://github.com/pydantic/logfire) - AI observability platform for production LLM and agent systems.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -413,7 +413,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 ## ajax 
@@ -481,7 +481,7 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
+- [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - AdSkip — an Android assistant for automatically skipping app launch ads
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo) - Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
@@ -865,7 +865,7 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -2654,7 +2654,7 @@
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [mbzuai-oryx/LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -2681,7 +2681,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ElricLiu/AutoGPT-Next-Web](https://github.com/ElricLiu/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
@@ -2866,11 +2866,11 @@
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -3054,7 +3054,7 @@
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 
@@ -3192,7 +3192,7 @@
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [casibase/casibase](https://github.com/casibase/casibase) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports Ch
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
@@ -3246,6 +3246,7 @@
 
 ## others 
 
+- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [thiswind/cursor-agent-team](https://github.com/thiswind/cursor-agent-team) - Cursor AI Agent Team Framework: A three-agent collaboration system for AI-assisted work
 - [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad) - CodeNomad: The command center that puts AI coding on steroids.
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
@@ -3285,7 +3286,7 @@
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [cundi/Django-Design-Patterns-and-Best-Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices) - 《Django设计模式与最佳实践》2015年03月-基于Django 1.7
 - [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
-- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带来辅助码创新体验，支持7种辅助码。集成超级注释、候选反查筛选、快符、手动排序、tips等特色扩展功能，让你保证大厂体验的同时，深度享受 Rime 超强自定义的便利。详见README。Q群：11033572 / 11631066
+- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带来辅助码创新体验，支持7种辅助码。集成超级注释、候选反查筛选、快符、手动排序、tips等特色扩展功能，让你保证大厂体验的同时，深度享受 Rime 超强自定义的便利。详见README。Q群：11033572满 / 11631066
 - [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - Contexts Optical Compression
 - [affinityv/INI-RDPWRAP](https://github.com/affinityv/INI-RDPWRAP) - 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -4712,7 +4713,7 @@
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -4795,7 +4796,7 @@
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
