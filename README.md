@@ -320,6 +320,7 @@
 
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [Laisky/one-api](https://github.com/Laisky/one-api) - OpenRouter’s open‑source alternative. Multi-model/Multi-API-format/Multi-tenant LLM API aggregation platform.
+- [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - Security Governance for Agentic AI
 - [nicoxiang/geektime-downloader](https://github.com/nicoxiang/geektime-downloader) - 极客时间课程下载器，支持下载极客时间专栏/视频课/每日一课/大厂实践/训练营视频
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
@@ -469,7 +470,7 @@
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [mroth/scmpuff](https://github.com/mroth/scmpuff) - 🔢 Numeric file shortcuts for common git commands
+- [mroth/scmpuff](https://github.com/mroth/scmpuff) - 🔢 Numeric file selection shortcuts for common git commands
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - A toolkit for Integrating with your kubernetes dev environment more efficiently
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -1377,6 +1378,7 @@
 
 ## Python 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) - E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platfo
 - [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) - Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills 
 - [glmcdona/COpenClaw](https://github.com/glmcdona/COpenClaw) - GitHub Copilot CLI-powered desktop personal assistant
@@ -1389,7 +1391,6 @@
 - [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) - ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [cisco-ai-defense/defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - Security Governance for Agentic AI
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
@@ -1645,7 +1646,7 @@
 - [wondertrader/wtpy](https://github.com/wondertrader/wtpy) - wtpy是基于wondertrader为底层的针对python的子框架
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
 - [PyCQA/modernize](https://github.com/PyCQA/modernize) - Modernizes Python code for eventual Python 3 migration. Built on top of fissix (a fork of lib2to3)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [eadwinCode/django-ninja-extra](https://github.com/eadwinCode/django-ninja-extra) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework)
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
@@ -2278,7 +2279,7 @@
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
 - [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Graphs that teach &gt; graphs that impress. Works with Claud
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
