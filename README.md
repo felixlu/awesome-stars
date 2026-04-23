@@ -720,7 +720,8 @@
 
 ## JavaScript 
 
-- [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+- [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
 - [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -1423,7 +1424,7 @@
 - [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 - [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like OpenClaw.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [alffei/skill_share](https://github.com/alffei/skill_share) - 
 - [tukuaiai/tradecat](https://github.com/tukuaiai/tradecat) - 交易猫数据系统
