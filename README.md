@@ -331,7 +331,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [zkep/my-geektime](https://github.com/zkep/my-geektime) - 👏 Make learning a lifelong habit. 学无止境
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
-- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [gpt-5.5 -&gt; https://token.glidea.app 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
+- [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [gpt-5.5 -&gt; https://pay.ldxp.cn/shop/8465P8HU 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
 - [OpenListTeam/alist](https://github.com/OpenListTeam/alist) - 请前往 https://github.com/OpenListTeam/OpenList
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -1573,7 +1573,7 @@
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口
 - [TencentQQGYLab/ComfyUI-ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) - ELLA nodes for ComfyUI
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -1948,7 +1948,7 @@
 - [sbzhu/weworkapi_python](https://github.com/sbzhu/weworkapi_python) - official lib of wework api https://work.weixin.qq.com/api/doc
 - [html5lib/html5lib-python](https://github.com/html5lib/html5lib-python) - Standards-compliant library for parsing and serializing HTML documents and fragments in Python
 - [miyakogi/pyppeteer](https://github.com/miyakogi/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
-- [stanislav-web/OpenDoor](https://github.com/stanislav-web/OpenDoor) - OpenDoor — OWASP Web Directory Scanner
+- [stanislav-web/OpenDoor](https://github.com/stanislav-web/OpenDoor) - OWASP Web Recon & Directory Discovery Platform
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
