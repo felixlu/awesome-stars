@@ -294,7 +294,7 @@
 
 ## agent 
 
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [TurixAI/TuriX-CUA](https://github.com/TurixAI/TuriX-CUA) - This is the official website for TuriX Computer-use-Agent
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
@@ -349,7 +349,7 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
@@ -360,7 +360,7 @@
 ## ai 
 
 - [airbytehq/airbyte-agent-sdk](https://github.com/airbytehq/airbyte-agent-sdk) - 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
@@ -378,7 +378,7 @@
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A hook-first runtime for agents that live alongside people.
 - [hosenur/portal](https://github.com/hosenur/portal) - Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
@@ -388,7 +388,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -419,7 +419,7 @@
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择DeepSeek/OpenAI/Claude/Gemini/ MiniMax/Qwen/GLM/LinkAI，能处理文
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -479,9 +479,9 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control) - AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A hook-first runtime for agents that live alongside people.
 - [hosenur/portal](https://github.com/hosenur/portal) - Mobile first batteries included web ui for sst/opencode. Git integration, in browser terminal, isolated workspaces.
@@ -492,7 +492,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -501,7 +501,7 @@
 - [koloai/kolo](https://github.com/koloai/kolo) - Kolo is a text-based Python debugger for AI agents. Capture every executed function call, return value, local variable, HTTP request, and more in greppable trace files.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
@@ -624,7 +624,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.
 - [denisneuf/python-amazon-ad-api](https://github.com/denisneuf/python-amazon-ad-api) - Python Amazon Advertising API
-- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [iimeta/fastapi](https://github.com/iimeta/fastapi) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
@@ -638,7 +638,7 @@
 - [aurorax-neo/free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Rout
+- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
 - [EsperoTech/yaade](https://github.com/EsperoTech/yaade) - Yaade is an open-source, self-hosted, collaborative API development environment.
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale
 - [ghazi-git/drf-standardized-errors](https://github.com/ghazi-git/drf-standardized-errors) - Standardize your DRF API error responses
@@ -686,7 +686,7 @@
 ## artificial-intelligence 
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [xorbitsai/inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready
@@ -980,7 +980,7 @@
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
@@ -989,7 +989,7 @@
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [SMNETSTUDIO/Groq2API](https://github.com/SMNETSTUDIO/Groq2API) - Free Groq API
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
-- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Rout
+- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
@@ -1101,9 +1101,9 @@
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -1115,7 +1115,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 ## cli 
@@ -1485,7 +1485,7 @@
 - [AmineDjeghri/awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup) - An app and guide to easily configure Windows, Linux, MacOS, Google TV, Stremio, Home Assistant and more (including WSL2, GPU drivers & development tools). Improve your UX & productivity.
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [rio-labs/rio](https://github.com/rio-labs/rio) - WebApps in pure Python. No JavaScript, HTML and CSS needed
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -1876,7 +1876,7 @@
 ## fastapi 
 
 - [fastapi-practices/fastapi-best-architecture](https://github.com/fastapi-practices/fastapi-best-architecture) - Enterprise-level backend architecture solution with fastapi、sqlalchemy,、celery、pydantic、grafana、docker...
-- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [HogaStack/Dash-FastAPI-Admin](https://github.com/HogaStack/Dash-FastAPI-Admin) - A general middle and backend management system developed purely in Python based on Dash+FastAPI.基于Dash+FastAPI纯Python开发的一个通用中后台管理系统。
 - [iimeta/fastapi](https://github.com/iimeta/fastapi) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
 - [baizunxian/zerorunner](https://github.com/baizunxian/zerorunner) - 一个全栈测试自动化平台，使用fastapi + vue3 ，快速实现接口自动化，方便维护扩展
@@ -1982,7 +1982,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
@@ -2025,12 +2025,12 @@
 
 ## generative-ai 
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-host
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [apache/burr](https://github.com/apache/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!
@@ -2151,7 +2151,7 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Rout
+- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
@@ -2540,7 +2540,7 @@
 
 ## javascript 
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-host
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visual
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -2846,7 +2846,7 @@
 
 - [airbytehq/airbyte-agent-sdk](https://github.com/airbytehq/airbyte-agent-sdk) - 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.
 - [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
@@ -2898,7 +2898,7 @@
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -3102,7 +3102,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies
+- [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [gpt-5.5 -&gt; https://pay.ldxp.cn/shop/8465P8HU 0.2 倍率, 0.2元当1刀花，比官方便宜35倍]
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -3402,7 +3402,7 @@
 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [airbytehq/airbyte-agent-sdk](https://github.com/airbytehq/airbyte-agent-sdk) - 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-host
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -3415,7 +3415,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [beikeshop/beikeshop](https://github.com/beikeshop/beikeshop) - Free and Open-Source, Easy-to-Use Laravel eCommerce Platform, Base on the Laravel . It supports multiple languages and currencies, Integrates AI agents. The platform features customizable visual desig
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) - OpenPanel is an open-source web and product analytics platform, an open-source alternative to Mixpanel with optional self-hosting.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -3447,7 +3447,7 @@
 - [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
-- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [XiaomingX/awesome-qwen-prompt-insight](https://github.com/XiaomingX/awesome-qwen-prompt-insight) - 🧠 世界上覆盖最全的优秀Qwen提示语大全，欢迎贡献你的提示词。🧠 The most comprehensive collection of excellent Qwen prompts in the world. Feel free to contribute your own prompts!
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -3465,7 +3465,7 @@
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
@@ -3473,7 +3473,7 @@
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Rout
+- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [xtekky/gpt4local](https://github.com/xtekky/gpt4local) - Openai-style, fast & lightweight local language model inference w/ documents
@@ -3585,7 +3585,6 @@
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [cundi/Django-Design-Patterns-and-Best-Practices](https://github.com/cundi/Django-Design-Patterns-and-Best-Practices) - 《Django设计模式与最佳实践》2015年03月-基于Django 1.7
 - [pawamoy/yore](https://github.com/pawamoy/yore) - Manage legacy code with comments.
 - [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
@@ -4661,7 +4660,7 @@
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
-- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - 中文 Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、Cursor、Claude Code、Codex、Gemini CLI 实战指南
+- [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
 - [EmbraceAGI/awesome-chatgpt-zh](https://github.com/EmbraceAGI/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 
@@ -4717,7 +4716,7 @@
 - [Healthlane-Technologies/Zango](https://github.com/Healthlane-Technologies/Zango) - Django meta-framework for building enterprise-ready custom business applications 💼 ✨
 - [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast a
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
-- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
+- [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
 - [apache/casbin-pycasbin](https://github.com/apache/casbin-pycasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Python
 - [ZhuoZhuoCrayon/throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py) - 🔧 High-performance Python rate limiting library with multiple algorithms (Fixed Window, Sliding Window, Token Bucket, Leaky Bucket & GCRA) and storage backends (Redis, In-Memory).
 - [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 众多优秀广告规则的上游、开源社区中最棒的广告过滤器之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
@@ -4749,7 +4748,7 @@
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -5101,12 +5100,12 @@
 ## rag 
 
 - [airbytehq/airbyte-agent-sdk](https://github.com/airbytehq/airbyte-agent-sdk) - 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
@@ -5118,7 +5117,7 @@
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Ll
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Int
@@ -5154,7 +5153,7 @@
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Rout
+- [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
@@ -5496,7 +5495,7 @@
 ## sqlite 
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [ibis-project/ibis](https://github.com/ibis-project/ibis) - the portable Python dataframe library
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
@@ -5739,7 +5738,7 @@
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
