@@ -329,7 +329,6 @@
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [laixintao/piccolo](https://github.com/laixintao/piccolo) - 
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [zkep/my-geektime](https://github.com/zkep/my-geektime) - 👏 Make learning a lifelong habit. 学无止境
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
@@ -1312,7 +1311,7 @@
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [shijiangkai/iOS-Programming-Sharing](https://github.com/shijiangkai/iOS-Programming-Sharing) - 28岁，零基础，学习 iOS 编程经验分享
 - [axper/python3-pycrypto-windows-installer](https://github.com/axper/python3-pycrypto-windows-installer) - pycrypto 2.6.1 windows 32-bit and 64-bit (x86 and amd64) installers for Python 3.4
-- [xirong/my-git](https://github.com/xirong/my-git) - Individual collecting material of learning git（有关 git 的学习资料）
+- [xirong/my-git](https://github.com/xirong/my-git) - A practical Git & GitHub handbook for modern engineering teams and AI-native development workflows. |  现代工程团队与 AI 编程时代的 Git / GitHub 实战手册
 - [geekan/one-python](https://github.com/geekan/one-python) - We don't need a lot of libraries. We just need the best ones. | Unofficial recommended first choice.
 - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 - [thoughtbot/til](https://github.com/thoughtbot/til) - Today I Learned
@@ -2194,6 +2193,7 @@
 
 ## Shell 
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [healenium/healenium](https://github.com/healenium/healenium) - Self-healing library for Selenium Web-based tests
@@ -2313,7 +2313,9 @@
 
 ## TypeScript 
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [epiral/bb-browser](https://github.com/epiral/bb-browser) - Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state.
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [SpikeHD/AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor) - Amazon price checker, item monitor and stock monitor, all shoved into a Discord bot
@@ -2399,7 +2401,7 @@
 - [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn) - Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Token-efficient AI coding
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Token-efficient AI coding toolkit for VS Code
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
