@@ -351,7 +351,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [CodisLabs/codis](https://github.com/CodisLabs/codis) - Proxy based Redis cluster solution supporting pipeline and scaling dynamically
-- [alibaba/loongsuite-go-agent](https://github.com/alibaba/loongsuite-go-agent) - OpenTelemetry Compile-Time Instrumentation for Golang
+- [alibaba/loongsuite-go](https://github.com/alibaba/loongsuite-go) - OpenTelemetry Compile-Time Instrumentation for Golang
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -909,7 +909,6 @@
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) - Beautify your Jenkins with the Material Design theme!
 - [layui/layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
-- [renrenio/renren-fast-vue](https://github.com/renrenio/renren-fast-vue) - renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [anteriovieira/vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - VueMindmap is a vue component for mindnode maps
@@ -1263,6 +1262,7 @@
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 - [dxcweb/high-speed-downloader](https://github.com/dxcweb/high-speed-downloader) - 已不再维护
+- [renrenio/renren-token](https://github.com/renrenio/renren-token) - RenrenToken is an open-source token manager that provides token transfer, statistics, and management services.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [zhangzhao4444/XMonkey](https://github.com/zhangzhao4444/XMonkey) - 基于 Xposed Hook 技术，实现 Mock 及 Fuzzing 自动化容错测试工具
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
