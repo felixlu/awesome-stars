@@ -1593,7 +1593,7 @@
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow
+- [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow, MCP
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [yunlzheng/prometheus-book](https://github.com/yunlzheng/prometheus-book) - Prometheus操作指南
@@ -1681,7 +1681,7 @@
 - [coderedcorp/coderedcms](https://github.com/coderedcorp/coderedcms) - Wagtail + CodeRed Extensions enabling rapid development of marketing-focused websites.
 - [fengsp/django-grpc-framework](https://github.com/fengsp/django-grpc-framework) - gRPC for Django.
 - [newpanjing/simpleui](https://github.com/newpanjing/simpleui) - A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨
-- [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow
+- [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow, MCP
 - [Bogdanp/django_dramatiq](https://github.com/Bogdanp/django_dramatiq) - A Django app that integrates with Dramatiq.
 - [wq/django-rest-pandas](https://github.com/wq/django-rest-pandas) - 📊📈 Serves up Pandas dataframes via the Django REST Framework for use in client-side (i.e. d3.js) visualizations and offline analysis (e.g. Excel)
 - [adamchainz/django-mysql](https://github.com/adamchainz/django-mysql) - :dolphin: :horse: Extensions to Django for use with MySQL/MariaDB
@@ -3194,6 +3194,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow, MCP
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -4203,7 +4204,7 @@
 - [xuliangzhan/vue-element-extends](https://github.com/xuliangzhan/vue-element-extends) - 🌴 基于 ElementUI 2.x 的扩展组件（已废弃 Have been abandoned）
 - [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
-- [haifei404/vue-kityminder-editor](https://github.com/haifei404/vue-kityminder-editor) - vue版的百度脑图-支持脑图编辑功能
+- [HF503/vue-kityminder-editor](https://github.com/HF503/vue-kityminder-editor) - vue版的百度脑图-支持脑图编辑功能
 - [Q1mi/Django-REST-framework-documentation](https://github.com/Q1mi/Django-REST-framework-documentation) - The translation of documentation for the version 3 of REST framework.（Only dev branch-based PR will be accepted. ）
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
 - [fancy88/iBook](https://github.com/fancy88/iBook) - 收藏一些电子书
@@ -4974,7 +4975,7 @@
 - [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-- [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow
+- [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow, MCP
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
