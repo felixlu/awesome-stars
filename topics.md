@@ -3173,7 +3173,7 @@
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - File System as Memory, Memory Shapes the Agent
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - From workspace to agent memory
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -4258,7 +4258,7 @@
 - [afonsof/jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme) - Beautify your Jenkins with the Material Design theme!
 - [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 - [gotgit/gotgit](https://github.com/gotgit/gotgit) - View this book online at: http://www.worldhello.net/gotgit/
-- [renrenio/linktoken](https://github.com/renrenio/linktoken) - LinkToken is an open-source token manager that provides token transfer, statistics, and management services.
+- [renrenio/linktoken](https://github.com/renrenio/linktoken) - LinkToken is an open-source unified token management platform that provides token distribution, access control, and usage analysis functions.
 - [zhanghangorg/sqlinj-ant](https://github.com/zhanghangorg/sqlinj-ant) - 伪分布式SQL注入自动扫描
 - [Backelite/sonar-objective-c](https://github.com/Backelite/sonar-objective-c) - Sonar Plugin for Objective-C
 - [nuysoft/Mock](https://github.com/nuysoft/Mock) - A simulation data generator
