@@ -734,7 +734,7 @@
 - [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [develop202/migu_video](https://github.com/develop202/migu_video) - 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
@@ -1467,7 +1467,7 @@
 - [AmineDjeghri/awesome-os-setup](https://github.com/AmineDjeghri/awesome-os-setup) - An app and guide to easily configure Windows, Linux, MacOS, Google TV, Stremio, Home Assistant and more (including WSL2, GPU drivers & development tools). Improve your UX & productivity.
 - [QwenLM/Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 - [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Workspace memory: Turn TB file system into agent memory and cut your token cost up to 95%
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Workspace memory: Turn colab file system into agent memory and cut your token cost up to 95%
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [alffei/skill_share](https://github.com/alffei/skill_share) - 
 - [tradecatlabs/tradecat-public](https://github.com/tradecatlabs/tradecat-public) - 交易猫数据系统
