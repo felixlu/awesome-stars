@@ -851,7 +851,7 @@
 - [sika-code-cloud/quasar-sika-design](https://github.com/sika-code-cloud/quasar-sika-design) - quasar-sika-design让世界没有难写的代码,Quasar Sika Design 是一个企业级中后台前端 / 设计解决方案，中后台管理模板，我们秉承 Ant Design 的设计价值观，致力于在设计规范和基础组件的基础上，继续向上构建，提炼出典型模板 / 业务组件 / 配套设计资源，进一步提升企业级中后台产品设计研发过程中的『用户』和『设计者』的体验。
 - [huiyi9420/ninja](https://github.com/huiyi9420/ninja) - 自用
 - [oevery/ninja](https://github.com/oevery/ninja) - 
-- [TaleLin/lin-cms-vue](https://github.com/TaleLin/lin-cms-vue) - 🔆 Vue+ElementPlus构建的CMS开发框架
+- [logamee/lin-cms-vue](https://github.com/logamee/lin-cms-vue) - 🔆 Vue+ElementPlus构建的CMS开发框架
 - [aD4wn/Workers-Proxy](https://github.com/aD4wn/Workers-Proxy) - A lightweight Javascript Reverse Proxy built with Cloudflare Workers.
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 - [lan-tianxiang/jd_shell](https://github.com/lan-tianxiang/jd_shell) - Node网页开发工具
@@ -1774,7 +1774,7 @@
 - [ScienceLogic/pycasbin-redis-watcher](https://github.com/ScienceLogic/pycasbin-redis-watcher) - Casbin policy update watcher using redis
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
-- [TaleLin/lin-cms-flask](https://github.com/TaleLin/lin-cms-flask) - 🎀A simple and practical CMS implememted by Flask
+- [logamee/lin-cms-flask](https://github.com/logamee/lin-cms-flask) - 🎀A simple and practical CMS implememted by Flask
 - [aivarsk/scrapy-proxies](https://github.com/aivarsk/scrapy-proxies) - Random proxy middleware for Scrapy
 - [georgemarshall/django-cryptography](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django
 - [yezyilomo/django-restql](https://github.com/yezyilomo/django-restql) - Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
