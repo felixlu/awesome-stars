@@ -1183,7 +1183,6 @@
 - [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - :octocat: A collection of APIs
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [yjlintw/book-Coding-Developer](https://github.com/yjlintw/book-Coding-Developer) - 持续更新一些编程开发的好书，也欢迎你的分享！
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
@@ -1435,7 +1434,7 @@
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) - E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platfo
 - [nexscope-ai/Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills) - Free AI agent skills for Amazon sellers—  keyword research, competitor analysis, listing audit & more. Works with OpenClaw, Claude Code, Cursor, Windsurf, Codex and any agent that supports the Skills 
 - [glmcdona/COpenClaw](https://github.com/glmcdona/COpenClaw) - GitHub Copilot CLI-powered desktop personal assistant
@@ -1478,7 +1477,6 @@
 - [tradecatlabs/tradecat-public](https://github.com/tradecatlabs/tradecat-public) - 交易猫数据系统
 - [arben-adm/mcp-sequential-thinking](https://github.com/arben-adm/mcp-sequential-thinking) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [chenjigang4167/testhub_platform](https://github.com/chenjigang4167/testhub_platform) - AI-Powered Testing Platform
 - [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) - Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
 - [fastapi-practices/fastapi-best-architecture](https://github.com/fastapi-practices/fastapi-best-architecture) - Enterprise-level backend architecture solution with fastapi、sqlalchemy,、celery、pydantic、grafana、docker...
@@ -1668,6 +1666,7 @@
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [poe-platform/server-bot-quick-start](https://github.com/poe-platform/server-bot-quick-start) - Tutorial for Poe server bots
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [cloud804d/mirrors-pengzhile-pandora](https://github.com/cloud804d/mirrors-pengzhile-pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
@@ -2160,7 +2159,7 @@
 ## Rust 
 
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -2614,6 +2613,7 @@
 
 ## Vue 
 
+- [chenjigang4167/testhub_platform](https://github.com/chenjigang4167/testhub_platform) - AI-Powered Testing Platform
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) - 🔥基于 Vue 3 + Vite 7+ TypeScript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。
