@@ -612,7 +612,7 @@
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components. Uniquely designed DSL: component reuse, sync/async & dynamic orchestrat
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
 - [kkangert/kspider](https://github.com/kkangert/kspider) - Kspider 是一个爬虫平台，以图形化方式定义爬虫流程，无需代码即可实现一个爬虫流程，Kspider不仅限爬虫，也可用于WEB自动化测试，更多功能等你探索。
 - [devlive-community/datacap](https://github.com/devlive-community/datacap) - DataCap is integrated software for data transformation, integration, and visualization. Support a variety of data sources, file types, big data related database, relational database, NoSQL database, e
@@ -906,7 +906,7 @@
 - [hiroppy/fusuma](https://github.com/hiroppy/fusuma) - ✍️ Fusuma makes slides with Markdown easily.
 - [githublitao/api_automation_test](https://github.com/githublitao/api_automation_test) - 接口自动化测试平台（老平台移步master_old分支）
 - [evilcos/xssor2](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript.
-- [jiangtao/vue-minder](https://github.com/jiangtao/vue-minder) - Vue minder based on baidu minder, Support Vue1.x Vue.2x ✨If you like it, Please star❤
+- [jiangtao/vue-minder](https://github.com/jiangtao/vue-minder) - Vue minder based on baidu minder, Support Vue1.x Vue.3x ✨If you like it, Please star❤
 - [fex-team/kityminder-editor](https://github.com/fex-team/kityminder-editor) - Powerful Mindmap Editing Tool
 - [mindmup/mapjs-webpack-example](https://github.com/mindmup/mapjs-webpack-example) - simple example how to pack mapjs 2 with webpack
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
@@ -1469,7 +1469,7 @@
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [Shaivpidadi/FreeRide](https://github.com/Shaivpidadi/FreeRide) - FreeRide gives you unlimited free AI in OpenClaw by automatically managing OpenRouter's free models.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflow
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, 
 - [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
 - [KuudoAI/amazon_ads_mcp](https://github.com/KuudoAI/amazon_ads_mcp) - Amazon Ads MCP - Model Context Protocol server for Amazon Advertising API
 - [tjxj/fakeclawbot](https://github.com/tjxj/fakeclawbot) - FakeClawBot - A Telegram AI Coding Assistant powered by OpenCode Server API. Control AI coding agents (Claude, Gemini, Kimi, GLM...) from your phone.
@@ -1598,7 +1598,7 @@
 - [ali-vilab/AnyDoor](https://github.com/ali-vilab/AnyDoor) - Official implementations for paper: Anydoor: zero-shot object-level image customization
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
@@ -1955,6 +1955,7 @@
 - [youfou/wxpy](https://github.com/youfou/wxpy) - 微信机器人 / 可能是最优雅的微信个人号 API ✨✨
 - [python-social-auth/social-app-django](https://github.com/python-social-auth/social-app-django) - Python Social Auth - Application - Django
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
@@ -2260,7 +2261,7 @@
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 - [laurent22/rsync-time-backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+- [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - ArgoX（Argo + Xray）—— 一键多协议脚本。基于 Xray 核心，支持 Reality、Hysteria2、VLESS、VMess、Trojan、Shadowsocks、XHTTP 等十余种协议，搭配 Cloudflare Argo 隧道，内置自定义 WARP 路由分流（域名 / geosite / geoip），支持多客户端订阅（Clash / V2rayN / Throne / 
 - [dqzboy/ChatGPT-Proxy](https://github.com/dqzboy/ChatGPT-Proxy) - ChatGPT Proxy Project：一键部署 go-chatgpt-api 和 ninja 逆向工程
 - [fscarmen2/Argo-X-Container-PaaS](https://github.com/fscarmen2/Argo-X-Container-PaaS) - 为容器平台而生---平台部署方式为镜像或者 Dockerfile 方式的专用
 - [fscarmen2/Argo-Xray-PaaS](https://github.com/fscarmen2/Argo-Xray-PaaS) - 在容器平台部署 Xray + Argo 隧道，4种协议 Vless /  Vmess / Trojan / SS + TLS + WS，不需 CF workers 反代
@@ -2516,7 +2517,7 @@
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Co
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [stepci/stepci](https://github.com/stepci/stepci) - Automated API Testing and Quality Assurance
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
@@ -2598,7 +2599,6 @@
 - [ojlm/indigo-api](https://github.com/ojlm/indigo-api) - Web服务端, 类Postman, 场景执行, 定时
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
 - [xmindltd/xmind-sdk-js](https://github.com/xmindltd/xmind-sdk-js) - This is a lightweight official software development kit to help people who wants to build the mapping file without the UI client and It's also supported to run in Browser or Node.js.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
