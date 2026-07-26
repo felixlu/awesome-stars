@@ -2160,7 +2160,7 @@
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [openRin/Rin](https://github.com/openRin/Rin) - 🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2209,7 +2209,7 @@
 
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
@@ -2739,7 +2739,7 @@
 - [pchuri/confluence-cli](https://github.com/pchuri/confluence-cli) - A powerful command-line interface for Atlassian Confluence
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) - Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.
 - [SPlayer-Dev/SPlayer](https://github.com/SPlayer-Dev/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visual
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -2755,7 +2755,7 @@
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -3582,7 +3582,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -3656,7 +3656,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [airbytehq/airbyte-agent-sdk](https://github.com/airbytehq/airbyte-agent-sdk) - 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -3813,7 +3813,7 @@
 - [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) - AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [nehcuh/vibesop](https://github.com/nehcuh/vibesop) - Battle-tested Claude Code workflow template — memory management, context engineering, and task routing from 3 months of daily usage
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [luotwo/BSC-amazon-SIF-Tool](https://github.com/luotwo/BSC-amazon-SIF-Tool) - 用 SIF MCP 分析亚马逊 ASIN 流量、广告、关键词、销量，并把结果落地到飞书多维表格
 - [luotwo/BSC-Amazon-Rufus-Cosmo](https://github.com/luotwo/BSC-Amazon-Rufus-Cosmo) - Claude Code skill for evidence-based Amazon COSMO + Rufus + Listing audits and rewrites.
@@ -3995,7 +3995,7 @@
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - https://getsurfboard.com
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建 Docker 镜像加速与管理服务，支持 Docker、K8s、Quay、GHCR、MCR、NVCR 等上游一键部署，并提供 Web 后台进行代理管理。
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 自建 Docker 镜像加速与管理服务。零磁盘缓存、可视化面板、支持上游账号认证，支持一键部署Docker、K8s、Quay、Ghcr、Mcr、elastic、nvcr等镜像加速
 - [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy) - CRProxy (Container Registry Proxy) is a generic image proxy
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。
 - [chinnsenn/ClashCustomRule](https://github.com/chinnsenn/ClashCustomRule) - 
@@ -5452,7 +5452,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [openRin/Rin](https://github.com/openRin/Rin) - 🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
@@ -6078,7 +6078,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [skmail/responsive-viewer](https://github.com/skmail/responsive-viewer) - Responsive Viewer - chrome extension to show multiple screens in one view.
