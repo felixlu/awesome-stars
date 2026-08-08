@@ -381,7 +381,6 @@
 - [aurorax-neo/chat2api](https://github.com/aurorax-neo/chat2api) - chat2api
 - [kkkgo/mosdns](https://github.com/kkkgo/mosdns) - 
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
@@ -882,7 +881,6 @@
 - [lony2003/heroku-node-proxy](https://github.com/lony2003/heroku-node-proxy) - 一键在Heroku上部署node-unblocker Web代理，简单易用且免费（去轮轮链接版）
 - [mellow-io/mellow](https://github.com/mellow-io/mellow) - Mellow is a rule-based global transparent proxy client for Windows, macOS and Linux. Also a Proxifier alternative.
 - [dwqs/blog](https://github.com/dwqs/blog) - :dog: :clap: :star2: Welcome to star
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [jawil/blog](https://github.com/jawil/blog) - Too young, too simple. Sometimes, naive & stupid 🐌
 - [jiangduoduo/PandaCUT](https://github.com/jiangduoduo/PandaCUT) - a tool to help you cut .pngs from .psd
 - [leezng/vue-json-pretty](https://github.com/leezng/vue-json-pretty) - A JSON tree view component that is easy to use and also supports data selection.
@@ -1480,7 +1478,7 @@
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [Shaivpidadi/FreeRide](https://github.com/Shaivpidadi/FreeRide) - FreeRide gives you unlimited free AI in OpenClaw by automatically managing OpenRouter's free models.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [KuudoAI/amazon_ads_mcp](https://github.com/KuudoAI/amazon_ads_mcp) - Amazon Ads MCP - Model Context Protocol server for Amazon Advertising API
 - [tjxj/fakeclawbot](https://github.com/tjxj/fakeclawbot) - FakeClawBot - A Telegram AI Coding Assistant powered by OpenCode Server API. Control AI coding agents (Claude, Gemini, Kimi, GLM...) from your phone.
 - [AmineDjeghri/personal-os-setup](https://github.com/AmineDjeghri/personal-os-setup) - An app and guide to easily configure Windows, Linux, MacOS, Google TV, Stremio, Home Assistant and more (including WSL2, GPU drivers & development tools). Improve your UX & productivity.
@@ -1620,6 +1618,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [binjie09/duckduckgo-api](https://github.com/binjie09/duckduckgo-api) - 免费的无限制的搜索接口
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [TencentQQGYLab/ComfyUI-ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) - ELLA nodes for ComfyUI
@@ -2613,6 +2612,7 @@
 - [blackholll/loonflow](https://github.com/blackholll/loonflow) - A Intelligent and Visual Process Automation System,  ticket, workflow, MCP
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
