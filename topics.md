@@ -306,6 +306,8 @@
 
 ## agent 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
+- [zhoujinjian/ai-testing-guide](https://github.com/zhoujinjian/ai-testing-guide) - AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
@@ -342,7 +344,7 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -389,7 +391,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - The collaboration OS for AI agents
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A hook-first runtime for agents that live alongside people.
 - [FellouAI/eko](https://github.com/FellouAI/eko) - Eko (Eko Keeps Operating) - Build Production-ready Agentic Workflow with Natural Language - eko.fellou.ai
@@ -406,6 +408,7 @@
 
 ## ai 
 
+- [zhoujinjian/ai-testing-guide](https://github.com/zhoujinjian/ai-testing-guide) - AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [skill-desktop/skill-desktop](https://github.com/skill-desktop/skill-desktop) - Manage, organize, and distribute your AI agent skills like a pro.
@@ -431,7 +434,7 @@
 - [nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills) - E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platfo
 - [Laisky/one-api](https://github.com/Laisky/one-api) - OpenRouter’s open‑source alternative. Multi-model/Multi-API-format/Multi-tenant LLM API aggregation platform.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - The collaboration OS for AI agents
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
@@ -479,8 +482,8 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) - Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (form
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
-- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -788,7 +791,7 @@
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [pchuri/confluence-cli](https://github.com/pchuri/confluence-cli) - A powerful command-line interface for Atlassian Confluence
-- [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
@@ -809,7 +812,7 @@
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
-- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [SonicCloudOrg/sonic-agent](https://github.com/SonicCloudOrg/sonic-agent) - 🎉Agent of Sonic cloud real machine platform. Sonic云真机平台Agent端。
 - [SonicCloudOrg/sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
@@ -992,7 +995,7 @@
 ## bot 
 
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
-- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [dongweiming/wechat-admin](https://github.com/dongweiming/wechat-admin) - Wechat Management System
 
@@ -1025,6 +1028,7 @@
 
 ## chatbot 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) - ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -1069,8 +1073,8 @@
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
-- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -1202,6 +1206,7 @@
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 39篇完整教程 + 1张速查卡 | 80万+内容量 | 1500+实操示例 | AI Coding / Agent 三线学习路径
 - [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口
+- [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
@@ -1722,7 +1727,7 @@
 ## devops 
 
 - [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -2799,7 +2804,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
@@ -2872,7 +2877,7 @@
 ## jenkins 
 
 - [opsre/LiteOps](https://github.com/opsre/LiteOps) - LiteOps - 轻量级DevOps平台。简单、高效的CI/CD解决方案
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [512team/dhorse](https://github.com/512team/dhorse) - DHorse是一个轻量级、简单易用的云应用管理平台，具有多云和多环境管理、应用管理和部署、服务治理等功能，使用该平台不需要了解容器和k8s的概念。
 - [DevopsChina/lab](https://github.com/DevopsChina/lab) - We hope all friends who are holding a fresh secret technique in the DevOps toolchain sign up for the online sharing in the community. 希望所有在 DevOps 工具链方面怀揣着一招鲜秘技的朋友们都报名社区的线上分享
@@ -3047,7 +3052,7 @@
 - [AmineDjeghri/personal-os-setup](https://github.com/AmineDjeghri/personal-os-setup) - An app and guide to easily configure Windows, Linux, MacOS, Google TV, Stremio, Home Assistant and more (including WSL2, GPU drivers & development tools). Improve your UX & productivity.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -3084,6 +3089,7 @@
 
 ## llm 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [skill-desktop/skill-desktop](https://github.com/skill-desktop/skill-desktop) - Manage, organize, and distribute your AI agent skills like a pro.
@@ -3106,7 +3112,7 @@
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [Laisky/one-api](https://github.com/Laisky/one-api) - OpenRouter’s open‑source alternative. Multi-model/Multi-API-format/Multi-tenant LLM API aggregation platform.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - The collaboration OS for AI agents
 - [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) - ♾️ 开源数字永生框架 — 从聊天记录蒸馏任何人的七维数字分身。支持微信/飞书/iMessage/Telegram等12+平台，7种角色模板，对齐 OpenClaw Soul Spec 标准。一行指令让你的AI学会蒸馏。
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -3142,9 +3148,9 @@
 - [mbzuai-oryx/LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
-- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 基于大模型的智能对话客服工具，支持微信、拼多多、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+- [cs-lazy-tools/ChatGPT-On-CS](https://github.com/cs-lazy-tools/ChatGPT-On-CS) - 拼多多、千牛、抖店 AI 客服机器人：自动回复客户咨询、商品答疑、售后申诉处理，支持微信、小红书、京东、抖音、B站、微博等多平台统一接待；可接入 DeepSeek / 通义千问 等大模型，支持自有知识库定制。
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
@@ -3270,7 +3276,7 @@
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -3305,7 +3311,7 @@
 - [uaxe/geektime-docs](https://github.com/uaxe/geektime-docs) - 👏极客时间 pdf & markdown 文档
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -3341,6 +3347,7 @@
 
 ## mcp 
 
+- [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
@@ -3738,12 +3745,13 @@
 - [Laisky/one-api](https://github.com/Laisky/one-api) - OpenRouter’s open‑source alternative. Multi-model/Multi-API-format/Multi-tenant LLM API aggregation platform.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
+- [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI) - FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。
@@ -3762,7 +3770,7 @@
 - [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [liaokongVFX/LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 - [kaito-project/aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
@@ -3837,7 +3845,7 @@
 - [dute8505/oracle-arm-monitor](https://github.com/dute8505/oracle-arm-monitor) - Oracle Cloud ARM instance auto-grab tool with multi-AD failover and burst retry mode
 - [xindoo/agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 - [zarazhangrui/lark-coding-agent-bridge](https://github.com/zarazhangrui/lark-coding-agent-bridge) - Bot that bridges Feishu/Lark messenger with a local Claude Code or Codex CLI. Streaming cards, per-chat sessions, multiple workspaces
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [byJoey/cfnew](https://github.com/byJoey/cfnew) - 
 - [datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) - AI Agent 学习路线与资料库收集
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
@@ -3854,7 +3862,7 @@
 - [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) - AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L
 - [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [nehcuh/vibesop](https://github.com/nehcuh/vibesop) - Battle-tested Claude Code workflow template — memory management, context engineering, and task routing from 3 months of daily usage
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [luotwo/BSC-amazon-SIF-Tool](https://github.com/luotwo/BSC-amazon-SIF-Tool) - 用 SIF MCP 分析亚马逊 ASIN 流量、广告、关键词、销量，并把结果落地到飞书多维表格
 - [luotwo/BSC-Amazon-Rufus-Cosmo](https://github.com/luotwo/BSC-Amazon-Rufus-Cosmo) - Claude Code skill for evidence-based Amazon COSMO + Rufus + Listing audits and rewrites.
@@ -3892,7 +3900,6 @@
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) - A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai
 - [barrersoftware/opencode-secure](https://github.com/barrersoftware/opencode-secure) - Security-hardened fork of OpenCode - Fixes CVE-2026-22812 (CVSS 8.8 RCE) that upstream refuses to patch
-- [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [alffei/skill_share](https://github.com/alffei/skill_share) - 
 - [laixintao/piccolo](https://github.com/laixintao/piccolo) - 
@@ -4983,7 +4990,7 @@
 
 ## prompt-engineering 
 
-- [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills
+- [kangarooking/cangjie-skill](https://github.com/kangarooking/cangjie-skill) - 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills（Distill high-value content from books, long-form videos, podcasts, and more into executable Agent Skills）
 - [Alttc9957-cyber/juzi-skill](https://github.com/Alttc9957-cyber/juzi-skill) - AI Agent 进化工具包——让一个普通的 Agent 用上它，直接上一个档次（v3.0 为最后一个开源版本）
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [microsoft/apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -5089,7 +5096,7 @@
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [meolu/walle-web](https://github.com/meolu/walle-web) - walle - 瓦力 Devops开源项目代码部署平台
@@ -5423,7 +5430,7 @@
 ## qt 
 
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [XMuli/ThinkyMate](https://github.com/XMuli/ThinkyMate) - Simple and easy to use desktop application for ChatGPT & AI, will supporting Window, MacOS, Linux platforms. | 洁且易用的 ChatGPT/星火大模型 & AI 的跨平台客户端
 - [visualfc/liteide](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 
@@ -5595,7 +5602,7 @@
 
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 - [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
@@ -5768,7 +5775,7 @@
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -5911,7 +5918,7 @@
 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [TencentQQGYLab/ComfyUI-ELLA](https://github.com/TencentQQGYLab/ComfyUI-ELLA) - ELLA nodes for ComfyUI
 - [Uminosachi/sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) - Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything.
@@ -6047,6 +6054,7 @@
 
 ## testing 
 
+- [zhoujinjian/ai-testing-guide](https://github.com/zhoujinjian/ai-testing-guide) - AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀
 - [ctripcorp/flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
@@ -6093,7 +6101,7 @@
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 
 ## trading 
@@ -6198,7 +6206,7 @@
 ## ubuntu 
 
 - [AmineDjeghri/personal-os-setup](https://github.com/AmineDjeghri/personal-os-setup) - An app and guide to easily configure Windows, Linux, MacOS, Google TV, Stremio, Home Assistant and more (including WSL2, GPU drivers & development tools). Improve your UX & productivity.
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
@@ -6210,7 +6218,7 @@
 - [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) - The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
@@ -6367,7 +6375,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
 - [zhaojh329/oui](https://github.com/zhaojh329/oui) - 🐛  A framework used to develop Web interface for OpenWrt. Use lighttpd + Lua-eco + Vue3 + Vite + Element Plus.
-- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+- [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过 JSON 数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 - [githublitao/api_automation_test](https://github.com/githublitao/api_automation_test) - 接口自动化测试平台（老平台移步master_old分支）
 - [Zaelot-Inc/ui-libraries](https://github.com/Zaelot-Inc/ui-libraries) - A collection of UI Frameworks and their platform implementations.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
@@ -6495,7 +6503,7 @@
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
-- [dvorka-oss/mindforger](https://github.com/dvorka-oss/mindforger) - Thinking notebook and Markdown editor.
+- [dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
