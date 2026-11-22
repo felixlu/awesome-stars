@@ -1651,7 +1651,7 @@
 - [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) - Webpage tracking only using CSS (and no JS)
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
+- [hanzipro/han.css](https://github.com/hanzipro/han.css) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [creeperyang/blog](https://github.com/creeperyang/blog) - 前端博客，关注基础知识和性能优化。
 - [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [macbre/phantomas](https://github.com/macbre/phantomas) - Headless Chromium-based web performance metrics collector and monitoring tool
@@ -2171,7 +2171,7 @@
 
 ## education 
 
-- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 10 学科知识图谱查漏补缺：4,068 个知识点、6,429 条先修关系、16,419 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。
 - [chadyi/StudyOnTV](https://github.com/chadyi/StudyOnTV) - StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions fro
 - [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -2229,7 +2229,7 @@
 
 ## english 
 
-- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 10 学科知识图谱查漏补缺：4,068 个知识点、6,429 条先修关系、16,419 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
@@ -3131,7 +3131,7 @@
 
 ## knowledge-graph 
 
-- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 10 学科知识图谱查漏补缺：4,068 个知识点、6,429 条先修关系、16,419 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
@@ -3973,7 +3973,7 @@
 
 ## open-data 
 
-- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+- [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) - 中小学 10 学科知识图谱查漏补缺：4,068 个知识点、6,429 条先修关系、16,419 道题。按国家课程标准逐条核对，诊断定位真正没学会的前置知识点，给出补学路径。
 
 ## open-source 
 
@@ -5995,7 +5995,7 @@
 
 - [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
-- [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
+- [hanzipro/han.css](https://github.com/hanzipro/han.css) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 
 ## scala 
